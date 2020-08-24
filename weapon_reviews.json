@@ -1,31 +1,36 @@
 {
-  data: [
+  "weapon_reviews": [
     {
-      "weaponHash" : "821154603",   // Gnawing Hunger
+      "weaponHash" : "821154603",
+      "name": "Gnawing Hunger Review",
       "videos" : [
         "https://www.youtube.com/watch?v=GZ9VWELAhIo", "https://www.youtube.com/watch?v=wGwknzgiJ0s"
       ]
     },
     {
-      "weaponHash" : "2199171672",   // Lonesome
+      "weaponHash" : "2199171672",
+      "name": "Lonesome Review",
       "videos" : [
         "https://www.youtube.com/watch?v=MRBPoP"
       ]
     },
     {
-      "weaponHash" : "1216130969",   // Cold Denial
+      "weaponHash" : "1216130969",
+      "name": "Cold Denial Review",
       "videos" : [
         "https://www.youtube.com/watch?v=-7tWdldr1O0", "https://www.youtube.com/watch?v=j1jKsnDD6Ss"
       ]
     },
     {
-      "weaponHash" : "3143732432",   // False Promises
+      "weaponHash" : "3143732432",
+      "name": "False Promises Review",
       "videos" : [
         "https://www.youtube.com/watch?v=Ed_CuwSFLEo"
       ]
     },
     {
-      "weaponHash" : "1946491241",   // Truthteller
+      "weaponHash" : "1946491241",
+      "name": "Truthteller Review",
       "videos" : [
         "https://www.youtube.com/watch?v=7XNBjZOggpc", "https://www.youtube.com/watch?v=VuNY5t-DS0g"
       ]
