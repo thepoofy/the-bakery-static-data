@@ -1,0 +1,34 @@
+{
+  data: [
+    {
+      "weaponHash" : "821154603",   // Gnawing Hunger
+      "videos" : [
+        "https://www.youtube.com/watch?v=GZ9VWELAhIo", "https://www.youtube.com/watch?v=wGwknzgiJ0s"
+      ]
+    },
+    {
+      "weaponHash" : "2199171672",   // Lonesome
+      "videos" : [
+        "https://www.youtube.com/watch?v=MRBPoP"
+      ]
+    },
+    {
+      "weaponHash" : "1216130969",   // Cold Denial
+      "videos" : [
+        "https://www.youtube.com/watch?v=-7tWdldr1O0", "https://www.youtube.com/watch?v=j1jKsnDD6Ss"
+      ]
+    },
+    {
+      "weaponHash" : "3143732432",   // False Promises
+      "videos" : [
+        "https://www.youtube.com/watch?v=Ed_CuwSFLEo"
+      ]
+    },
+    {
+      "weaponHash" : "1946491241",   // Truthteller
+      "videos" : [
+        "https://www.youtube.com/watch?v=7XNBjZOggpc", "https://www.youtube.com/watch?v=VuNY5t-DS0g"
+      ]
+    }
+  ]
+}
