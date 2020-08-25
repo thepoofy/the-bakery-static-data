@@ -3,36 +3,103 @@
     {
       "weaponHash" : "821154603",
       "name": "Gnawing Hunger Review",
-      "videos" : [
-        "https://www.youtube.com/watch?v=GZ9VWELAhIo", "https://www.youtube.com/watch?v=wGwknzgiJ0s"
+      "reviews" : [ 
+        {
+          "video_id": "GZ9VWELAhIo",
+          "video_url": "https://www.youtube.com/watch?v=GZ9VWELAhIo",
+          "author": "Fallout Plays",
+          "date": "07/24/2020"
+        },
+        {
+          "video_id": "wGwknzgiJ0s",
+          "video_url": "https://www.youtube.com/watch?v=wGwknzgiJ0s",
+          "author": "Mtashed",
+          "date": "07/24/2020"
+        },
+        {
+          "video_id": "J__wmjjdViA",
+          "video_url": "https://www.youtube.com/watch?v=J__wmjjdViA",
+          "author": "Pattycakes Gaming",
+          "date": "06/14/2020"
+        }
       ]
     },
     {
       "weaponHash" : "2199171672",
       "name": "Lonesome Review",
-      "videos" : [
-        "https://www.youtube.com/watch?v=MRBPoP"
+      "reviews" : [
+        {
+          "video_id": "MRBPoPQmdu0",
+          "video_url": "https://www.youtube.com/watch?v=MRBPoPQmdu0",
+          "author": "Fallout Plays",
+          "date": "07/31/2020"
+        },
+        {
+          "video_id": "Sdy6QGulYmk",
+          "video_url": "https://www.youtube.com/watch?v=Sdy6QGulYmk",
+          "author": "CoolGuy",
+          "date": "04/23/2019"
+        }
       ]
     },
     {
       "weaponHash" : "1216130969",
       "name": "Cold Denial Review",
-      "videos" : [
-        "https://www.youtube.com/watch?v=-7tWdldr1O0", "https://www.youtube.com/watch?v=j1jKsnDD6Ss"
+      "reviews" : [
+        {
+          "video_id": "-7tWdldr1O0",
+          "video_url": "https://www.youtube.com/watch?v=-7tWdldr1O0",
+          "author": "Fallout Plays",
+          "date": "07/03/2020"
+        },
+        {
+          "video_id": "j1jKsnDD6Ss",
+          "video_url": "https://www.youtube.com/watch?v=j1jKsnDD6Ss",
+          "author": "Aztecross",
+          "date": "06/15/2020"
+        },
+        {
+          "video_id": "U3rGOXpisjM",
+          "video_url": "https://www.youtube.com/watch?v=U3rGOXpisjM",
+          "author": "CoolGuy",
+          "date": "07/24/2020"
+        }
       ]
     },
     {
       "weaponHash" : "3143732432",
       "name": "False Promises Review",
-      "videos" : [
-        "https://www.youtube.com/watch?v=Ed_CuwSFLEo"
+      "reviews" : [
+        {
+          "video_id": "Ed_CuwSFLEo",
+          "video_url": "https://www.youtube.com/watch?v=Ed_CuwSFLEo",
+          "author": "CoolGuy",
+          "date": "06/26/2020"
+        },
+        {
+          "video_id": "NEs5rvHHlho",
+          "video_url": "https://www.youtube.com/watch?v=NEs5rvHHlho",
+          "author": "IFrostBolt",
+          "date": "06/13/2020"
+        }
       ]
     },
     {
       "weaponHash" : "1946491241",
       "name": "Truthteller Review",
-      "videos" : [
-        "https://www.youtube.com/watch?v=7XNBjZOggpc", "https://www.youtube.com/watch?v=VuNY5t-DS0g"
+      "reviews" : [
+        {
+          "video_id": "7XNBjZOggpc",
+          "video_url": "https://www.youtube.com/watch?v=7XNBjZOggpc",
+          "author": "CoolGuy",
+          "date": "07/29/2020"
+        },
+        {
+          "video_id": "VuNY5t-DS0g",
+          "video_url": "https://www.youtube.com/watch?v=VuNY5t-DS0g",
+          "author": "KackisHD",
+          "date": "06/22/2020"
+        }
       ]
     }
   ]
