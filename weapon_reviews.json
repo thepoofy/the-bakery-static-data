@@ -1,9 +1,9 @@
 {
   "weapon_reviews": [
     {
-      "weaponHash" : "821154603",
+      "weaponHash": "821154603",
       "name": "Gnawing Hunger Review",
-      "reviews" : [ 
+      "reviews": [
         {
           "video_id": "GZ9VWELAhIo",
           "video_url": "https://www.youtube.com/watch?v=GZ9VWELAhIo",
@@ -25,9 +25,9 @@
       ]
     },
     {
-      "weaponHash" : "2199171672",
+      "weaponHash": "2199171672",
       "name": "Lonesome Review",
-      "reviews" : [
+      "reviews": [
         {
           "video_id": "MRBPoPQmdu0",
           "video_url": "https://www.youtube.com/watch?v=MRBPoPQmdu0",
@@ -43,9 +43,9 @@
       ]
     },
     {
-      "weaponHash" : "1216130969",
+      "weaponHash": "1216130969",
       "name": "Cold Denial Review",
-      "reviews" : [
+      "reviews": [
         {
           "video_id": "-7tWdldr1O0",
           "video_url": "https://www.youtube.com/watch?v=-7tWdldr1O0",
@@ -67,9 +67,9 @@
       ]
     },
     {
-      "weaponHash" : "3143732432",
+      "weaponHash": "3143732432",
       "name": "False Promises Review",
-      "reviews" : [
+      "reviews": [
         {
           "video_id": "Ed_CuwSFLEo",
           "video_url": "https://www.youtube.com/watch?v=Ed_CuwSFLEo",
@@ -85,9 +85,9 @@
       ]
     },
     {
-      "weaponHash" : "1946491241",
+      "weaponHash": "1946491241",
       "name": "Truthteller Review",
-      "reviews" : [
+      "reviews": [
         {
           "video_id": "7XNBjZOggpc",
           "video_url": "https://www.youtube.com/watch?v=7XNBjZOggpc",
@@ -99,6 +99,168 @@
           "video_url": "https://www.youtube.com/watch?v=VuNY5t-DS0g",
           "author": "KackisHD",
           "date": "06/22/2020"
+        },
+        {
+          "video_id": "8cA0X0yptco",
+          "video_url": "https://www.youtube.com/watch?v=8cA0X0yptco",
+          "author": "Ehroar",
+          "date": "06/28/2020"
+        }
+      ]
+    },
+    {
+      "weaponHash": "1835747805",
+      "name": "Nature of the Beast Review",
+      "reviews": [
+        {
+          "video_id": "k6VZXoFCZ2w",
+          "video_url": "https://www.youtube.com/watch?v=k6VZXoFCZ2w",
+          "author": "CoolGuy",
+          "date": "08/03/2020"
+        }
+      ]
+    },
+    {
+      "weaponHash": "2478792241",
+      "name": "The Scholar Review",
+      "reviews": [
+        {
+          "video_id": "MiF8rf_3B3o",
+          "video_url": "https://www.youtube.com/watch?v=MiF8rf_3B3o",
+          "author": "CoolGuy",
+          "date": "03/17/2020"
+        }
+      ]
+    },
+    {
+      "weaponHash": "1162247618",
+      "name": "Jian 7 Review",
+      "reviews": [
+        {
+          "video_id": "FVvgExLdUP0",
+          "video_url": "https://www.youtube.com/watch?v=FVvgExLdUP0",
+          "author": "CoolGuy",
+          "date": "04/14/2020"
+        }
+      ]
+    },
+    {
+      "weaponHash": "3164743584",
+      "name": "Eye of Sol Review",
+      "reviews": [
+        {
+          "video_id": "5ABKNePxNpY",
+          "video_url": "https://www.youtube.com/watch?v=5ABKNePxNpY",
+          "author": "CoolGuy",
+          "date": "06/05/2020"
+        }
+      ]
+    },
+    {
+      "weaponHash": "1179141605",
+      "name": "Felwinter's Lie Review",
+      "reviews": [
+        {
+          "video_id": "rOEJFZ5fhEc",
+          "video_url": "https://www.youtube.com/watch?v=rOEJFZ5fhEc",
+          "author": "CoolGuy",
+          "date": "05/22/2020"
+        },
+        {
+          "video_id": "7QQICIKF0BM",
+          "video_url": "https://www.youtube.com/watch?v=7QQICIKF0BM",
+          "author": "Fallout Plays",
+          "date": "05/21/2020"
+        }
+      ]
+    },
+    {
+      "weaponHash": "1363238943",
+      "name": "Ruinous Effigy Review",
+      "reviews": [
+        {
+          "video_id": "TamyuBomgBY",
+          "video_url": "https://www.youtube.com/watch?v=TamyuBomgBY",
+          "author": "Fallout Plays",
+          "date": "07/07/2020"
+        }
+      ]
+    },
+    {
+      "weaponHash": "2222560548",
+      "name": "IKELOS_SMG_v1.0.2 (SMG) Review",
+      "reviews": [
+        {
+          "video_id": "sMl6qPUcjV8",
+          "video_url": "https://www.youtube.com/watch?v=sMl6qPUcjV8",
+          "author": "Aztecross",
+          "date": "07/11/2020"
+        },
+        {
+          "video_id": "1sgVvsCK2BM",
+          "video_url": "https://www.youtube.com/watch?v=1sgVvsCK2BM",
+          "author": "Ehroar",
+          "date": "07/10/2020"
+        }
+      ]
+    },
+    {
+      "weaponHash": "1253087083",
+      "name": "IKELOS_SR_V1.0.2 (Sniper) Review",
+      "reviews": [
+        {
+          "video_id": "kIU1Ogx_L7Y",
+          "video_url": "https://www.youtube.com/watch?v=kIU1Ogx_L7Y",
+          "author": "Aztecross",
+          "date": "07/24/2020"
+        },
+        {
+          "video_id": "waOR-IuhIIc",
+          "video_url": "https://www.youtube.com/watch?v=waOR-IuhIIc",
+          "author": "Ehroar",
+          "date": "07/09/2020"
+        },
+        {
+          "video_id": "Li3ROG4K8Kg",
+          "video_url": "https://www.youtube.com/watch?v=Li3ROG4K8Kg",
+          "author": "Jarv",
+          "date": "07/18/2020"
+        }
+      ]
+    },
+    {
+      "weaponHash": "1096206669",
+      "name": "IKELOS_SG_V1.0.2 (Shotgun) Review",
+      "reviews": [
+        {
+          "video_id": "kqbBGFvDUyE",
+          "video_url": "https://www.youtube.com/watch?v=kqbBGFvDUyE",
+          "author": "Jarv",
+          "date": "07/30/2020"
+        },
+        {
+          "video_id": "saIWyH2XnBo",
+          "video_url": "https://www.youtube.com/watch?v=saIWyH2XnBo",
+          "author": "Ehroar",
+          "date": "07/19/2020"
+        }
+      ]
+    },
+    {
+      "weaponHash": "2742490609",
+      "name": "Death Adder Review",
+      "reviews": [
+        {
+          "video_id": "syXOpks_crA",
+          "video_url": "https://www.youtube.com/watch?v=syXOpks_crA",
+          "author": "Jarv",
+          "date": "06/29/2020"
+        },
+        {
+          "video_id": "TrjAuUA1rq0",
+          "video_url": "https://www.youtube.com/watch?v=TrjAuUA1rq0",
+          "author": "Aztecross",
+          "date": "06/24/2020"
         }
       ]
     }
