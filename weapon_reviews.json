@@ -263,6 +263,120 @@
           "date": "06/24/2020"
         }
       ]
+    },
+    {
+      "weaponHash": "3829285960",
+      "name": "Horror Story Review",
+      "reviews": [
+        {
+          "video_id": "Y_QcRMUltFY",
+          "video_url": "https://www.youtube.com/watch?v=Y_QcRMUltFY",
+          "author": "Aztecross",
+          "date": "10/18/2020"
+        }
+      ]
+    },
+    {
+      "weaponHash": "528834068",
+      "name": "BrayTech Werewolf Review",
+      "reviews": [
+        {
+          "video_id": "R8ecoZriDSk",
+          "video_url": "https://www.youtube.com/watch?v=R8ecoZriDSk",
+          "author": "Aztecross",
+          "date": "10/09/2020"
+        }
+      ]
+    },
+    {
+      "weaponHash": "2742838701",
+      "name": "Dire Promise Review",
+      "reviews": [
+        {
+          "video_id": "tiysI2bwyzw",
+          "video_url": "https://www.youtube.com/watch?v=tiysI2bwyzw",
+          "author": "Aztecross",
+          "date": "08/19/2020"
+        },
+        {
+          "video_id": "b2ZlsorBrW0",
+          "video_url": "https://www.youtube.com/watch?v=b2ZlsorBrW0",
+          "author": "Panduh",
+          "date": "03/10/2020"
+        }
+      ]
+    },
+    {
+      "weaponHash": "1697682876",
+      "name": "Astral Horizon Review",
+      "reviews": [
+        {
+          "video_id": "WdFr1euR0kA",
+          "video_url": "https://www.youtube.com/watch?v=WdFr1euR0kA",
+          "author": "Mtashed",
+          "date": "03/21/2020"
+        },
+        {
+          "video_id": "YNsqn6mxY-s",
+          "video_url": "https://www.youtube.com/watch?v=YNsqn6mxY-s",
+          "author": "Aztecross",
+          "date": "03/20/2020"
+        }
+      ]
+    },
+    {
+      "weaponHash": "1907698332",
+      "name": "The Summoner Review",
+      "reviews": [
+        {
+          "video_id": "gNPoqgnudzM",
+          "video_url": "https://www.youtube.com/watch?v=gNPoqgnudzM",
+          "author": "CoolGuy",
+          "date": "03/31/2020"
+        },
+        {
+          "video_id": "f0RLGKEpXCo",
+          "video_url": "https://www.youtube.com/watch?v=f0RLGKEpXCo",
+          "author": "Aztecross",
+          "date": "03/21/2020"
+        }
+      ]
+    },
+    {
+      "weaponHash": "614426548",
+      "name": "Falling Guillotine Review",
+      "reviews": [
+        {
+          "video_id": "SbBOCOJpMaE",
+          "video_url": "https://www.youtube.com/watch?v=SbBOCOJpMaE",
+          "author": "Luckyy10P",
+          "date": "06/18/2020"
+        }
+      ]
+    },
+    {
+      "weaponHash": "614426548",
+      "name": "Falling Guillotine Review",
+      "reviews": [
+        {
+          "video_id": "SbBOCOJpMaE",
+          "video_url": "https://www.youtube.com/watch?v=SbBOCOJpMaE",
+          "author": "Luckyy10P",
+          "date": "06/18/2020"
+        }
+      ]
+    },
+    {
+      "weaponHash": "3424403076",
+      "name": "The Fool's Remedy Review",
+      "reviews": [
+        {
+          "video_id": "rOqRgxg1dIA",
+          "video_url": "https://www.youtube.com/watch?v=rOqRgxg1dIA",
+          "author": "Aztecross",
+          "date": "07/01/2020"
+        }
+      ]
     }
   ]
 }
