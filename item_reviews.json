@@ -165,13 +165,6 @@
       ]
     },
     {
-      "itemHash": "614426548",
-      "name": "Falling Guillotine Review",
-      "reviews": [
-        "SbBOCOJpMaE"
-      ]
-    },
-    {
       "itemHash": "3424403076",
       "name": "The Fool's Remedy Review",
       "reviews": [
@@ -190,7 +183,8 @@
       "itemHash": "2990047042",
       "name": "Succession",
       "reviews": [
-        "y8HbTGM1J0o"
+        "y8HbTGM1J0o",
+        "9qgcHVVPZDk"
       ]
     },
     {
@@ -205,7 +199,8 @@
       "itemHash": "2603483885",
       "name": "Cloudstrike",
       "reviews": [
-        "lWkcRNHVqLE"
+        "lWkcRNHVqLE",
+        "mnBK9SumKKU"
       ]
     },
     {
@@ -279,7 +274,8 @@
       "name": "Arctic Haze",
       "reviews": [
         "wjCIozi4jks",
-        "FfRi4stj748"
+        "FfRi4stj748",
+        "r-KPbsftfLQ"
       ]
     },
     {
@@ -326,7 +322,9 @@
       "itemHash": "1030895163",
       "name": "Glacioclasm",
       "reviews": [
-        "M6K7XuFO2Ek"
+        "M6K7XuFO2Ek",
+        "s7URG6BUl_Q",
+        "D2jjT81HTJE"
       ]
     },
     {
@@ -350,6 +348,27 @@
       "name": "Avalanche",
       "reviews": [
         "IxslsZkItTc"
+      ]
+    },
+    {
+      "itemHash": "408440598",
+      "name": "True Prophecy",
+      "reviews": [
+        "42g2sNfx3pc"
+      ]
+    },
+    {
+      "itemHash": "204878059",
+      "name": "Malfeasance",
+      "reviews": [
+        "yIj0Y6OChSY"
+      ]
+    },
+    {
+      "itemHash": "568515759",
+      "name": "Chattering Bone",
+      "reviews": [
+        "1TMP1IkR2M8"
       ]
     }
   ]
