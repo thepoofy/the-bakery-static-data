@@ -661,7 +661,7 @@
       "itemHash": "602618796",
       "name": "Scathelocke",
       "reviews": [
-        "_ElmyYY8pU8"
+        "_ElmyYY8pU8","qpOABeUYDEs"
       ]
     },{
       "itemHash": "852551895",
@@ -787,14 +787,63 @@
       "itemHash": "2850415209",
       "name": "Judgment",
       "reviews": [
-        "yIL9zLsymSw"
+        "yIL9zLsymSw","qgTDZH0ErDM"
       ]
     },
     {
       "itemHash": "2481758391",
       "name": "Darkest Before",
       "reviews": [
-        "V-0fYGUKPTQ"
+        "V-0fYGUKPTQ","j6BvncHKjQM"
+      ]
+    },
+    {
+      "itemHash": "1503609584",
+      "name": "The Last Breath",
+      "reviews": [
+        "bm9iRdAp2oY"
+      ]
+    },
+    {
+      "itemHash": "2588048270",
+      "name": "Spoiler Alert",
+      "reviews": [
+        "bKzjlFAJbSA"
+      ]
+    },
+    {
+      "itemHash": "3743729616",
+      "name": "Shepherd's Watch",
+      "reviews": [
+        "6NTcVKdkZCU","lsoWC4G5zuE"
+      ]
+    },
+    {
+      "itemHash": "2272470786",
+      "name": "Stochastic Variable",
+      "reviews": [
+        "DhsPiQkE3j0","Gp2_eHMMMWE"
+      ]
+    },
+    {
+      "itemHash": "1076810832",
+      "name": "Forge's Pledge",
+      "reviews": [
+        "w1axnFHKV_Y"
+      ]
+    },
+    {
+      "itemHash": "1853180924",
+      "name": "Traveler's Chosen",
+      "reviews": [
+        "AMFRpi86PbY"
+      ]
+    },
+    {
+      "itemHash": "532105352",
+      "name": "Eye of Sol",
+      "reviews": [
+        "MbG7ETPyBTc"
       ]
     }
   ]
