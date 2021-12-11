@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "traitHash": 4091000557,
+      "description": "Damage bonus vs red bar enemies."
+    },
+    {
+      "traitHash": 984527513,
+      "description": "Damage bonus vs \"majors\"; orange bar enemies"
+    },
+    {
+      "traitHash": 984527513,
+      "description": "Damage bonus vs champions and many yellow bar enemies."
+    },
+    {
+      "traitHash": 2788909693,
+      "description": "Damage bonus vs yellow bar bosses."
+    },
+    {
+      "traitHash": 2597888511,
+      "description": "Power of Rasputin weapon damage bonus.  Enemies near a warmind cell will glow when vulnerable to this damage bonus."
+    },
+    {
+      "traitHash": 3632726237,
+      "description": "Damage bonus vs Minor/Major enemies."
+    },
+    {
+      "traitHash": 3632726237,
+      "description": "Damage bonus vs Boss/Ultra enemies."
+    },
+    {
+      "traitHash": 1546637391,
+      "description": "Damage bonus vs Major, Boss and Ultra enemies."
+    },
+    {
+      "traitHash": 3708227201,
+      "description": "Surrounded"
+    },
+    {
+      "traitHash": 1471333428,
+      "description": "Damage bonus when Surrounded with Surrounded Spec mod."
+    },
+    {
+      "traitHash": 3425386926,
+      "description": "Rampage x1"
+    },
+    {
+      "traitHash": 3425386926,
+      "description": "Rampage x2"
+    },
+    {
+      "traitHash": 3425386926,
+      "description": "Rampage x3"
+    },
+    {
+      "traitHash": 1015611457,
+      "description": "Kill Clip"
+    },
+    {
+      "traitHash": 2458213969,
+      "description": "Multikill Clip x1"
+    },
+    {
+      "traitHash": 2458213969,
+      "description": "Multikill Clip x2"
+    },
+    {
+      "traitHash": 2458213969,
+      "description": "Multikill Clip x3"
+    },
+    {
+      "traitHash": 4082225868,
+      "description": "Swashbuckler x1"
+    },
+    {
+      "traitHash": 4082225868,
+      "description": "Swashbuckler x2"
+    },
+    {
+      "traitHash": 4082225868,
+      "description": "Swashbuckler x3"
+    },
+    {
+      "traitHash": 4082225868,
+      "description": "Swashbuckler x4"
+    },
+    {
+      "traitHash": 4082225868,
+      "description": "Swashbuckler x5"
+    },
+    {
+      "traitHash": 3913600130,
+      "description": "Whirlwind Blade x1"
+    },
+    {
+      "traitHash": 3913600130,
+      "description": "Whirlwind Blade x2"
+    },
+    {
+      "traitHash": 3913600130,
+      "description": "Whirlwind Blade x3"
+    },
+    {
+      "traitHash": 3913600130,
+      "description": "Whirlwind Blade x4"
+    },
+    {
+      "traitHash": 3913600130,
+      "description": "Whirlwind Blade x5"
+    },
+    {
+      "traitHash": 1954620775,
+      "description": "A delayed, explosive damage bonus where a portion of the damage has no range falloff."
+    },
+    {
+      "traitHash": 3038247973,
+      "description": "A damage bonus where a portion of the damage has no range falloff."
+    },
+    {
+      "traitHash": 1683379515,
+      "description": "Damage bonus to kinetic weapon damage after breaking a shield."
+    },
+    {
+      "traitHash": 2360754333,
+      "description": "Damage bonus to first 3 shots after a melee for a short duration."
+    },
+    {
+      "traitHash": 2679249093,
+      "description": "Damage bonus to your next melee."
+    },
+    {
+      "traitHash": 2869569095,
+      "description": "Increase to total inventory of ammunition."
+    },
+    {
+      "traitHash": 1820235745,
+      "description": "Decrease to total inventory of ammunition."
+    },
+    {
+      "traitHash": 595829387,
+      "description": "Damage bonus to your next melee."
+    }
+  ]
+}
