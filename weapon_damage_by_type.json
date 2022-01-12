@@ -1,0 +1,69 @@
+{
+	"data": {
+		"6": {
+			"1294026524": {
+				"name": "Hand Cannon - Adaptive Frame",
+				"bodyDamage": 47.0,
+				"critDamage": 70.0,
+				"critMultiplier": 1.49,
+				"rpm": 139
+			},
+			"1322370662": {
+				"name": "Hand Cannon - Precision Frame",
+				"bodyDamage": 38.0,
+				"critDamage": 57.0,
+				"critMultiplier": 1.49,
+				"rpm": 180
+			},
+			"2757685314": {
+				"name": "Hand Cannon - Aggressive Frame",
+				"bodyDamage": 50.0,
+				"critDamage": 80.0,
+				"critMultiplier": 1.6,
+				"rpm": 120
+			},
+			"3923638944": {
+				"name": "Hand Cannon - Double Fire Frame",
+				"bodyDamage": 50.0,
+				"critDamage": 91.0,
+				"critMultiplier": 1.82,
+				"rpm": 120
+			},
+			"1791592647": {
+				"name": "Hand Cannon - Malfeasance",
+				"bodyDamage": 38.0,
+				"critDamage": 57.0,
+				"critMultiplier": 1.49,
+				"rpm": 180
+			},
+			"507151084": {
+				"name": "Hand Cannon - Sturm",
+				"bodyDamage": 50.0,
+				"critDamage": 91.0,
+				"critMultiplier": 1.82,
+				"rpm": 120
+			},
+			"1863355414": {
+				"name": "Hand Cannon - Thorn",
+				"bodyDamage": 51.0,
+				"critDamage": 74.0,
+				"critMultiplier": 1.45,
+				"rpm": 139
+			},
+			"4045839491": {
+				"name": "Hand Cannon - Sunshot",
+				"bodyDamage": 44.0,
+				"critDamage": 65.0,
+				"critMultiplier": 1.48,
+				"rpm": 150
+			},
+			"2770223582": {
+				"name": "Hand Cannon - The Last Word (Fan Fire)",
+				"bodyDamage": 38.0,
+				"critDamage": 68.0,
+				"critMultiplier": 1.8,
+				"rpm": 225
+			}
+		}
+	}
+}
