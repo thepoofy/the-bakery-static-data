@@ -1,5 +1,35 @@
 {
-	"data": {
+	"damageByWeaponTypeMap": {
+		"5": {
+			"1294026524" :{
+				"name": "Auto Rifle - Adaptive Frame",
+				"bodyDamage": 14.0,
+				"critDamage": 23.0,
+				"critMultiplier": 1.6,
+				"rpm": 600
+			},
+			"878286503": {
+				"name": "Auto Rifle - Rapid-Fire Frame",
+				"bodyDamage": 13.0,
+				"critDamage": 20.0,
+				"critMultiplier": 1.5,
+				"rpm": 720
+			},
+			"1636108362": {
+				"name": "Auto Rifle - Precision Frame",
+				"bodyDamage": 18.0,
+				"critDamage": 29.0,
+				"critMultiplier": 1.6,
+				"rpm": 450
+			},
+			"1019291327": {
+				"name": "Auto Rifle - High-Impact Frame",
+				"bodyDamage": 22.0,
+				"critDamage": 35.0,
+				"critMultiplier": 1.6,
+				"rpm": 240
+			}
+		},
 		"6": {
 			"1294026524": {
 				"name": "Hand Cannon - Adaptive Frame",
@@ -64,6 +94,263 @@
 				"critMultiplier": 1.8,
 				"rpm": 225
 			}
+		},
+		"8": {
+			"3920852688": {
+				"name": "Scout Rifle - Rapid-Fire Frame",
+				"bodyDamage": 28.0,
+				"critDamage": 47.0,
+				"critMultiplier": 1.68,
+				"rpm": 257
+			},
+			"3364911712": {
+				"name": "Scout Rifle - VEIST Rapid-Fire Frame",
+				"bodyDamage": 28.0,
+				"critDamage": 47.0,
+				"critMultiplier": 1.68,
+				"rpm": 257
+			},
+			"4185339856": {
+				"name": "Scout Rifle - Symmetry",
+				"bodyDamage": 28.0,
+				"critDamage": 47.0,
+				"critMultiplier": 1.68,
+				"rpm": 257
+			},
+			"1458010786": {
+				"name": "Scout Rifle - Lightweight Frame",
+				"bodyDamage": 31.0,
+				"critDamage": 54.0,
+				"critMultiplier": 1.74,
+				"rpm": 200
+			},
+			"1636108362": {
+				"name": "Scout Rifle - Precision Frame",
+				"bodyDamage": 35.0,
+				"critDamage": 55.0,
+				"critMultiplier": 1.57,
+				"rpm": 180
+			},
+			"1019291327": {
+				"name": "Scout Rifle - High-Impact Frame",
+				"bodyDamage": 38.0,
+				"critDamage": 68.0,
+				"critMultiplier": 1.79,
+				"rpm": 150
+			}
+
+		},
+		"10": {
+			"1294026524" : {
+				"name": "Sniper Rifle - Adaptive Frame",
+				"bodyDamage": 1.0,
+				"critDamage": 1.0,
+				"critMultiplier": 1.0,
+				"rpm": 80
+			},
+			"3468089894": {
+				"name": "Sniper Rifle - Aggressive Frame",
+				"bodyDamage": 1.0,
+				"critDamage": 1.0,
+				"critMultiplier": 1.0,
+				"rpm": 80
+			},
+			"878286503": {
+				"name": "Sniper Rifle - Rapid-Fire Frame",
+				"bodyDamage": 1.0,
+				"critDamage": 1.0,
+				"critMultiplier": 1.0,
+				"rpm": 80
+			}
+		},
+		"11": {
+			"918679156": {
+				"name": "Shotgun - Pinpoint Slug Frame",
+				"bodyDamage": 151.0,
+				"critDamage": 258.0,
+				"critMultiplier": 1.71,
+				"rpm": 64
+			}
+		},
+		"12": {
+			"1019291327" : {
+				"name": "LMG - High-Impact Frame",
+				"bodyDamage": 1.0,
+				"critDamage": 1.0,
+				"critMultiplier": 1.0,
+				"rpm": 80
+			}
+		},
+		"14": {
+			"1636108362": {
+				"name": "Sidearm - Precision Frame",
+				"bodyDamage": 1.0,
+				"critDamage": 1.0,
+				"critMultiplier": 1.0,
+				"rpm": 240
+			}
+		},
+		"2489664120": {
+			"1294026524": {
+				"name": "Trace Rifle - Adaptive Frame",
+				"bodyDamage": 1.0,
+				"critDamage": 1.0,
+				"critMultiplier": 1.0,
+				"rpm": 240
+			}
+		},
+		"3954685534": {
+			"3468089894": {
+				"name": "SMG - Aggressive Frame",
+				"bodyDamage": 15.0,
+				"critDamage": 22.0,
+				"critMultiplier": 1.47,
+				"rpm": 720
+			},
+			"1458010786" : {
+				"name": "SMG - Lightweight Frame",
+				"bodyDamage": 11.0,
+				"critDamage": 19.0,
+				"critMultiplier": 1.73,
+				"rpm": 900
+			},
+			"1636108362": {
+				"name": "SMG - Precision Frame",
+				"bodyDamage": 16.0,
+				"critDamage": 23.0,
+				"critMultiplier": 1.44,
+				"rpm": 600
+			},
+			"1294026524": {
+				"name": "SMG - Adaptive Frame",
+				"bodyDamage": 13.0,
+				"critDamage": 17.0,
+				"critMultiplier": 1.31,
+				"rpm": 900
+			},
+			"2540536653": {
+				"name": "SMG - Tarrabah",
+				"bodyDamage": 15.0,
+				"critDamage": 22.0,
+				"critMultiplier": 1.47,
+				"rpm": 720
+			},
+			"2516532331": {
+				"name": "SMG - Riskrunner",
+				"bodyDamage": 13.0,
+				"critDamage": 17.0,
+				"critMultiplier": 1.31,
+				"rpm": 900
+			},
+			"630329983": {
+				"name": "SMG - The Huckleberry",
+				"bodyDamage": 13.0,
+				"critDamage": 17.0,
+				"critMultiplier": 1.31,
+				"rpm": 900
+			}
+		},
+		"7": {
+			"1294026524": {
+				"name": "Pulse Rifle - Adaptive Frame",
+				"bodyDamage": 1.0,
+				"critDamage": 1.0,
+				"critMultiplier": 1.0,
+				"rpm": 1
+			}
+		},
+		"9": {
+			"1294026524": {
+				"name": "Fusion Rifle - Adaptive Frame",
+				"bodyDamage": 1.0,
+				"critDamage": 1.0,
+				"critMultiplier": 1.0,
+				"rpm": 1
+			}
+		},
+		"1504945536": {
+			"1294026524": {
+				"name": "Linear Fusion Rifle - Adaptive Frame",
+				"bodyDamage": 1.0,
+				"critDamage": 1.0,
+				"critMultiplier": 1.0,
+				"rpm": 1
+			}
+		},
+		"3317538576": {
+			"1294026524": {
+				"name": "Bow - Adaptive Frame",
+				"bodyDamage": 1.0,
+				"critDamage": 1.0,
+				"critMultiplier": 1.0,
+				"rpm": 1
+			}
+		},
+		"153950757": {
+			"1294026524": {
+				"name": "Grenade Launchers - Adaptive Frame",
+				"bodyDamage": 1.0,
+				"critDamage": 1.0,
+				"critMultiplier": 1.0,
+				"rpm": 1
+			}
+		},
+		"13": {
+			"1294026524": {
+				"name": "Rocket Launchers - Adaptive Frame",
+				"bodyDamage": 1.0,
+				"critDamage": 1.0,
+				"critMultiplier": 1.0,
+				"rpm": 1
+			}
+		}
+	},
+	"damageModifierByPerkMap": {
+		"1015611457": {
+			"name": "Kill Clip",
+			"damageMultiplier": 1.33
+		},
+		"438098033": {
+			"name": "Harmony",
+			"damageMultiplier": 1.2
+		},
+		"11612903": {
+			"name": "Adrenaline Junkie",
+			"stackingDamageMultipliers": [1.066, 1.132, 1.198, 1.264, 1.33]
+		},
+		"4104185692": {
+			"name": "Frenzy",
+			"damageMultiplier": 1.15
+		},
+		"2458213969": {
+			"name": "Multikill Clip",
+			"stackingDamageMultipliers": [1.17, 1.33, 1.5]
+		},
+		"4049631843": {
+			"name": "One For All",
+			"damageMultiplier": 1.35
+		},
+		"3425386926": {
+			"name": "Rampage",
+			"stackingDamageMultipliers": [1.1, 1.21, 1.331]
+		},
+		"3708227201": {
+			"name": "Surrounded",
+			"damageMultiplier": 1.3
+		},
+		"4082225868": {
+			"name": "Swashbuckler",
+			"stackingDamageMultipliers": [1.066, 1.132, 1.198, 1.264, 1.33]
+		},
+		"454085387": {
+			"name": "Blunt Execution Rounds",
+			"damageMultiplier": 2.0,
+			"isInstantlyConsumed": true
+		},
+		"2551157718": {
+			"name": "Box Breathing",
+			"damageMultiplier": 1.66,
+			"isInstantlyConsumed": true
 		}
 	}
 }
