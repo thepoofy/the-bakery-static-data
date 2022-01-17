@@ -251,12 +251,77 @@
 			}
 		},
 		"7": {
+			"878286503": {
+				"name": "Pulse Rifle - Rapid Fire Frame",
+				"bodyDamage": 14.0,
+				"critDamage": 24.0,
+				"critMultiplier": 1.7,
+				"rpm": 540,
+				"shotsPerBurst": 3
+			},
+			"1458010786": {
+				"name": "Pulse Rifle - Lightweight Frame",
+				"bodyDamage": 15.0,
+				"critDamage": 25.0,
+				"critMultiplier": 1.66,
+				"rpm": 450,
+				"shotsPerBurst": 3
+			},
+			"4172222323": {
+				"name": "Pulse Rifle - Legacy PR-55 Frame",
+				"bodyDamage": 15.0,
+				"critDamage": 25.0,
+				"critMultiplier": 1.66,
+				"rpm": 450,
+				"shotsPerBurst": 3
+			},
 			"1294026524": {
 				"name": "Pulse Rifle - Adaptive Frame",
-				"bodyDamage": 1.0,
-				"critDamage": 1.0,
-				"critMultiplier": 1.0,
-				"rpm": 1
+				"bodyDamage": 20.0,
+				"critDamage": 31.0,
+				"critMultiplier": 1.55,
+				"rpm": 390,
+				"shotsPerBurst": 3
+			},
+			"1019291327": {
+				"name": "Pulse Rifle - High-Impact Frame",
+				"bodyDamage": 22.0,
+				"critDamage": 36.0,
+				"critMultiplier": 1.64,
+				"rpm": 340,
+				"shotsPerBurst": 3
+			},
+			"2874284214": {
+				"name": "Pulse Rifle - Aggressive Frame",
+				"bodyDamage": 16.0,
+				"critDamage": 27.0,
+				"critMultiplier": 1.70,
+				"rpm": 450,
+				"shotsPerBurst": 4
+			},
+			"2307143135": {
+				"name": "Pulse Rifle - Vigilance Wing",
+				"bodyDamage": 16.0,
+				"critDamage": 24.0,
+				"critMultiplier": 1.50,
+				"rpm": 530,
+				"shotsPerBurst": 5
+			},
+			"3905543891": {
+				"name": "Pulse Rifle - Graviton Lance",
+				"bodyDamage": 23.0,
+				"critDamage": 37.0,
+				"critMultiplier": 1.61,
+				"rpm": 257,
+				"shotsPerBurst": 2
+			},
+			"3837077246": {
+				"name": "Pulse Rifle - No Time To Explain",
+				"bodyDamage": 22.0,
+				"critDamage": 36.0,
+				"critMultiplier": 1.64,
+				"rpm": 340,
+				"shotsPerBurst": 3
 			}
 		},
 		"9": {
