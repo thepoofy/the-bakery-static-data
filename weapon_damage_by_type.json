@@ -143,26 +143,35 @@
 			}
 		},
 		"10": {
+			"878286503": {
+				"name": "Sniper Rifle - Rapid-Fire Frame",
+				"bodyDamage": 90.0,
+				"critDamage": 293.0,
+				"rpm": 139
+			},
 			"1294026524" : {
 				"name": "Sniper Rifle - Adaptive Frame",
-				"bodyDamage": 1.0,
-				"critDamage": 1.0,
-				"critMultiplier": 1.0,
-				"rpm": 80
+				"bodyDamage": 386.0,
+				"critDamage": 131.0,
+				"rpm": 90
 			},
 			"3468089894": {
 				"name": "Sniper Rifle - Aggressive Frame",
-				"bodyDamage": 1.0,
-				"critDamage": 1.0,
-				"critMultiplier": 1.0,
-				"rpm": 80
+				"bodyDamage": 158.0,
+				"critDamage": 474.0,
+				"rpm": 72
 			},
-			"878286503": {
-				"name": "Sniper Rifle - Rapid-Fire Frame",
-				"bodyDamage": 1.0,
-				"critDamage": 1.0,
-				"critMultiplier": 1.0,
-				"rpm": 80
+			"1070100196": {
+				"name": "Sniper Rifle - Izanagi's Burden",
+				"bodyDamage": 386.0,
+				"critDamage": 131.0,
+				"rpm": 90
+			},
+			"2909403175": {
+				"name": "Sniper Rifle - Cloudstrike",
+				"bodyDamage": 90.0,
+				"critDamage": 293.0,
+				"rpm": 139
 			}
 		},
 		"11": {
@@ -172,15 +181,46 @@
 				"critDamage": 258.0,
 				"critMultiplier": 1.71,
 				"rpm": 64
+			},
+			"481338655": {
+				"name": "Lord of Wolves",
+				"bodyDamage": 39.0,
+				"critDamage": 55.0,
+				"rpm": 640,
+				"shotsPerBurst": 5,
+				"framesPerBurst": 18
 			}
 		},
 		"12": {
 			"1019291327" : {
 				"name": "LMG - High-Impact Frame",
-				"bodyDamage": 1.0,
-				"critDamage": 1.0,
-				"critMultiplier": 1.0,
-				"rpm": 80
+				"bodyDamage": 34.0,
+				"critDamage": 48.0,
+				"rpm": 360
+			},
+			"1294026524" : {
+				"name": "LMG - Adaptive Frame",
+				"bodyDamage": 30.0,
+				"critDamage": 41.0,
+				"rpm": 450
+			},
+			"878286503" : {
+				"name": "LMG - Rapid-Fire Frame",
+				"bodyDamage": 18.0,
+				"critDamage": 24.0,
+				"rpm": 900
+			},
+			"2608508147" : {
+				"name": "LMG - Heir Apparent",
+				"bodyDamage": 18.0,
+				"critDamage": 24.0,
+				"rpm": 900
+			},
+			"4148158229" : {
+				"name": "LMG - Thunderlord",
+				"bodyDamage": 30.0,
+				"critDamage": 41.0,
+				"rpm": 450
 			}
 		},
 		"14": {
