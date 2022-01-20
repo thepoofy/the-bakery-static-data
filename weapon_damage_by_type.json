@@ -5,28 +5,24 @@
 				"name": "Auto Rifle - Adaptive Frame",
 				"bodyDamage": 14.0,
 				"critDamage": 23.0,
-				"critMultiplier": 1.6,
 				"rpm": 600
 			},
 			"878286503": {
 				"name": "Auto Rifle - Rapid-Fire Frame",
 				"bodyDamage": 13.0,
 				"critDamage": 20.0,
-				"critMultiplier": 1.5,
 				"rpm": 720
 			},
 			"1636108362": {
 				"name": "Auto Rifle - Precision Frame",
 				"bodyDamage": 18.0,
 				"critDamage": 29.0,
-				"critMultiplier": 1.6,
 				"rpm": 450
 			},
 			"1019291327": {
 				"name": "Auto Rifle - High-Impact Frame",
 				"bodyDamage": 22.0,
 				"critDamage": 35.0,
-				"critMultiplier": 1.6,
 				"rpm": 240
 			}
 		},
@@ -91,8 +87,15 @@
 				"name": "Hand Cannon - The Last Word (Fan Fire)",
 				"bodyDamage": 38.0,
 				"critDamage": 68.0,
-				"critMultiplier": 1.8,
 				"rpm": 225
+			},
+			"1030990989": {
+				"name": "Hand Cannon - Crimson (Banned Weapon)",
+				"bodyDamage": 19.0,
+				"critDamage": 31.0,
+				"rpm": 386,
+				"shotsPerBurst": 3,
+				"framesPerBurst": 21
 			}
 		},
 		"8": {
@@ -138,7 +141,6 @@
 				"critMultiplier": 1.79,
 				"rpm": 150
 			}
-
 		},
 		"10": {
 			"1294026524" : {
@@ -182,12 +184,70 @@
 			}
 		},
 		"14": {
+			"806997698": {
+				"name": "Sidearm - SUROS Rapid-Fire",
+				"bodyDamage": 24.0,
+				"critDamage": 35.0,
+				"rpm": 450
+			},
+			"3449390870": {
+				"name": "Sidearm - Adaptive Frame",
+				"bodyDamage": 37.0,
+				"critDamage": 51.0,
+				"rpm": 300
+			},
 			"1636108362": {
 				"name": "Sidearm - Precision Frame",
-				"bodyDamage": 1.0,
-				"critDamage": 1.0,
+				"bodyDamage": 38.0,
+				"critDamage": 57.0,
+				"rpm": 257
+			},
+			"31057037": {
+				"name": "Sidearm - Omolon Adaptive Burst",
+				"bodyDamage": 20.0,
+				"critDamage": 32.0,
+				"rpm": 491,
+				"shotsPerBurst": 3,
+				"framesPerBurst": 9
+			},
+			"3330548924": {
+				"name": "Sidearm - Aggressive Burst",
+				"bodyDamage": 33.0,
+				"critDamage": 45.0,
 				"critMultiplier": 1.0,
-				"rpm": 240
+				"rpm": 325,
+				"shotsPerBurst": 3,
+				"framesPerBurst": 7
+			},
+			"1458010786": {
+				"name": "Sidearm - Lightweight Frame",
+				"bodyDamage": 31.0,
+				"critDamage": 45.0,
+				"rpm": 360
+			},
+			"2984682260": {
+				"name": "Sidearm - Forerunner",
+				"bodyDamage": 35.0,
+				"critDamage": 69.0,
+				"rpm": 200
+			},
+			"334466122": {
+				"name": "Sidearm - Devil's Ruin",
+				"bodyDamage": 37.0,
+				"critDamage": 51.0,
+				"rpm": 300
+			},
+			"986191425": {
+				"name": "Sidearm - Cryosthesia 77K",
+				"bodyDamage": 38.0,
+				"critDamage": 57.0,
+				"rpm": 257
+			},
+			"2121086290": {
+				"name": "Sidearm - Rat King",
+				"bodyDamage": 37.0,
+				"critDamage": 51.0,
+				"rpm": 300
 			}
 		},
 		"2489664120": {
@@ -195,7 +255,6 @@
 				"name": "Trace Rifle - Adaptive Frame",
 				"bodyDamage": 1.0,
 				"critDamage": 1.0,
-				"critMultiplier": 1.0,
 				"rpm": 240
 			}
 		},
@@ -204,49 +263,42 @@
 				"name": "SMG - Aggressive Frame",
 				"bodyDamage": 15.0,
 				"critDamage": 22.0,
-				"critMultiplier": 1.47,
 				"rpm": 720
 			},
 			"1458010786" : {
 				"name": "SMG - Lightweight Frame",
 				"bodyDamage": 11.0,
 				"critDamage": 19.0,
-				"critMultiplier": 1.73,
 				"rpm": 900
 			},
 			"1636108362": {
 				"name": "SMG - Precision Frame",
 				"bodyDamage": 16.0,
 				"critDamage": 23.0,
-				"critMultiplier": 1.44,
 				"rpm": 600
 			},
 			"1294026524": {
 				"name": "SMG - Adaptive Frame",
 				"bodyDamage": 13.0,
 				"critDamage": 17.0,
-				"critMultiplier": 1.31,
 				"rpm": 900
 			},
 			"2540536653": {
 				"name": "SMG - Tarrabah",
 				"bodyDamage": 15.0,
 				"critDamage": 22.0,
-				"critMultiplier": 1.47,
 				"rpm": 720
 			},
 			"2516532331": {
 				"name": "SMG - Riskrunner",
 				"bodyDamage": 13.0,
 				"critDamage": 17.0,
-				"critMultiplier": 1.31,
 				"rpm": 900
 			},
 			"630329983": {
 				"name": "SMG - The Huckleberry",
 				"bodyDamage": 13.0,
 				"critDamage": 17.0,
-				"critMultiplier": 1.31,
 				"rpm": 900
 			}
 		},
@@ -257,7 +309,8 @@
 				"critDamage": 24.0,
 				"critMultiplier": 1.7,
 				"rpm": 540,
-				"shotsPerBurst": 3
+				"shotsPerBurst": 3,
+				"framesPerBurst": 9
 			},
 			"1458010786": {
 				"name": "Pulse Rifle - Lightweight Frame",
@@ -265,7 +318,8 @@
 				"critDamage": 25.0,
 				"critMultiplier": 1.66,
 				"rpm": 450,
-				"shotsPerBurst": 3
+				"shotsPerBurst": 3,
+				"framesPerBurst": 9
 			},
 			"4172222323": {
 				"name": "Pulse Rifle - Legacy PR-55 Frame",
@@ -273,7 +327,8 @@
 				"critDamage": 25.0,
 				"critMultiplier": 1.66,
 				"rpm": 450,
-				"shotsPerBurst": 3
+				"shotsPerBurst": 3,
+				"framesPerBurst": 9
 			},
 			"1294026524": {
 				"name": "Pulse Rifle - Adaptive Frame",
@@ -281,7 +336,8 @@
 				"critDamage": 31.0,
 				"critMultiplier": 1.55,
 				"rpm": 390,
-				"shotsPerBurst": 3
+				"shotsPerBurst": 3,
+				"framesPerBurst": 9
 			},
 			"1019291327": {
 				"name": "Pulse Rifle - High-Impact Frame",
@@ -289,7 +345,8 @@
 				"critDamage": 36.0,
 				"critMultiplier": 1.64,
 				"rpm": 340,
-				"shotsPerBurst": 3
+				"shotsPerBurst": 3,
+				"framesPerBurst": 9
 			},
 			"2874284214": {
 				"name": "Pulse Rifle - Aggressive Frame",
@@ -297,7 +354,8 @@
 				"critDamage": 27.0,
 				"critMultiplier": 1.70,
 				"rpm": 450,
-				"shotsPerBurst": 4
+				"shotsPerBurst": 4,
+				"framesPerBurst": 12
 			},
 			"2307143135": {
 				"name": "Pulse Rifle - Vigilance Wing",
@@ -305,7 +363,8 @@
 				"critDamage": 24.0,
 				"critMultiplier": 1.50,
 				"rpm": 530,
-				"shotsPerBurst": 5
+				"shotsPerBurst": 5,
+				"framesPerBurst": 15
 			},
 			"3905543891": {
 				"name": "Pulse Rifle - Graviton Lance",
@@ -321,7 +380,8 @@
 				"critDamage": 36.0,
 				"critMultiplier": 1.64,
 				"rpm": 340,
-				"shotsPerBurst": 3
+				"shotsPerBurst": 3,
+				"framesPerBurst": 6
 			}
 		},
 		"9": {
