@@ -532,14 +532,14 @@
 		"3317538576": {
 			"715195141": {
 				"name": "Bow - Precision Frame",
-				"bodyDamage": 151.0,
-				"critDamage": 101.0,
+				"bodyDamage": 101.0,
+				"critDamage": 151.0,
 				"chargeRate": 667
 			},
 			"2108556049": {
 				"name": "Bow - Lightweight Frame",
-				"bodyDamage": 138.0,
-				"critDamage": 86.0,
+				"bodyDamage": 86.0,
+				"critDamage": 138.0,
 				"chargeRate": 600
 			},
 			"1573888036": {
