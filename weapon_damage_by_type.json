@@ -293,9 +293,39 @@
 		"2489664120": {
 			"1294026524": {
 				"name": "Trace Rifle - Adaptive Frame",
-				"bodyDamage": 1.0,
-				"critDamage": 1.0,
-				"rpm": 240
+				"bodyDamage": 13.0,
+				"critDamage": 17.0,
+				"rpm": 900
+			},
+			"1797707170": {
+				"name": "Trace Rifle - Divinity",
+				"bodyDamage": 7.0,
+				"critDamage": 11.0,
+				"rpm": 900
+			},
+			"459441288": {
+				"name": "Trace Rifle - Wavesplitter",
+				"bodyDamage": 13.0,
+				"critDamage": 18.0,
+				"rpm": 900
+			},
+			"1657401727": {
+				"name": "Trace Rifle - Ruinous Effigy",
+				"bodyDamage": 13.0,
+				"critDamage": 17.0,
+				"rpm": 900
+			},
+			"1036269296": {
+				"name": "Trace Rifle - Coldheart",
+				"bodyDamage": 13.0,
+				"critDamage": 18.0,
+				"rpm": 900
+			},
+			"571267712": {
+				"name": "Trace Rifle - Prometheus Lens",
+				"bodyDamage": 13.0,
+				"critDamage": 17.0,
+				"rpm": 900
 			}
 		},
 		"3954685534": {
