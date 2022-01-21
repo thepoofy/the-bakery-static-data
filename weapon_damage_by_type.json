@@ -78,6 +78,7 @@
 			"2770223582": {
 				"name": "Hand Cannon - The Last Word (Fan Fire)",
 				"bodyDamage": 38.0,
+				"critDamage": 68.0,
 				"rpm": 225
 			},
 			"1030990989": {
