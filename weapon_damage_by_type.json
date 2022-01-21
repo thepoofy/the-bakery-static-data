@@ -31,62 +31,53 @@
 				"name": "Hand Cannon - Adaptive Frame",
 				"bodyDamage": 47.0,
 				"critDamage": 70.0,
-				"critMultiplier": 1.49,
 				"rpm": 139
 			},
 			"1322370662": {
 				"name": "Hand Cannon - Precision Frame",
 				"bodyDamage": 38.0,
 				"critDamage": 57.0,
-				"critMultiplier": 1.49,
 				"rpm": 180
 			},
 			"2757685314": {
 				"name": "Hand Cannon - Aggressive Frame",
 				"bodyDamage": 50.0,
 				"critDamage": 80.0,
-				"critMultiplier": 1.6,
 				"rpm": 120
 			},
 			"3923638944": {
 				"name": "Hand Cannon - Double Fire Frame",
 				"bodyDamage": 50.0,
 				"critDamage": 91.0,
-				"critMultiplier": 1.82,
 				"rpm": 120
 			},
 			"1791592647": {
 				"name": "Hand Cannon - Malfeasance",
 				"bodyDamage": 38.0,
 				"critDamage": 57.0,
-				"critMultiplier": 1.49,
 				"rpm": 180
 			},
 			"507151084": {
 				"name": "Hand Cannon - Sturm",
 				"bodyDamage": 50.0,
 				"critDamage": 91.0,
-				"critMultiplier": 1.82,
 				"rpm": 120
 			},
 			"1863355414": {
 				"name": "Hand Cannon - Thorn",
 				"bodyDamage": 51.0,
 				"critDamage": 74.0,
-				"critMultiplier": 1.45,
 				"rpm": 139
 			},
 			"4045839491": {
 				"name": "Hand Cannon - Sunshot",
 				"bodyDamage": 44.0,
 				"critDamage": 65.0,
-				"critMultiplier": 1.48,
 				"rpm": 150
 			},
 			"2770223582": {
 				"name": "Hand Cannon - The Last Word (Fan Fire)",
 				"bodyDamage": 38.0,
-				"critDamage": 68.0,
 				"rpm": 225
 			},
 			"1030990989": {
@@ -103,42 +94,36 @@
 				"name": "Scout Rifle - Rapid-Fire Frame",
 				"bodyDamage": 28.0,
 				"critDamage": 47.0,
-				"critMultiplier": 1.68,
 				"rpm": 257
 			},
 			"3364911712": {
 				"name": "Scout Rifle - VEIST Rapid-Fire Frame",
 				"bodyDamage": 28.0,
 				"critDamage": 47.0,
-				"critMultiplier": 1.68,
 				"rpm": 257
 			},
 			"4185339856": {
 				"name": "Scout Rifle - Symmetry",
 				"bodyDamage": 28.0,
 				"critDamage": 47.0,
-				"critMultiplier": 1.68,
 				"rpm": 257
 			},
 			"1458010786": {
 				"name": "Scout Rifle - Lightweight Frame",
 				"bodyDamage": 31.0,
 				"critDamage": 54.0,
-				"critMultiplier": 1.74,
 				"rpm": 200
 			},
 			"1636108362": {
 				"name": "Scout Rifle - Precision Frame",
 				"bodyDamage": 35.0,
 				"critDamage": 55.0,
-				"critMultiplier": 1.57,
 				"rpm": 180
 			},
 			"1019291327": {
 				"name": "Scout Rifle - High-Impact Frame",
 				"bodyDamage": 38.0,
 				"critDamage": 68.0,
-				"critMultiplier": 1.79,
 				"rpm": 150
 			}
 		},
@@ -179,7 +164,6 @@
 				"name": "Shotgun - Pinpoint Slug Frame",
 				"bodyDamage": 151.0,
 				"critDamage": 258.0,
-				"critMultiplier": 1.71,
 				"rpm": 64
 			},
 			"481338655": {
@@ -254,7 +238,6 @@
 				"name": "Sidearm - Aggressive Burst",
 				"bodyDamage": 33.0,
 				"critDamage": 45.0,
-				"critMultiplier": 1.0,
 				"rpm": 325,
 				"shotsPerBurst": 3,
 				"framesPerBurst": 7
@@ -377,7 +360,6 @@
 				"name": "Pulse Rifle - Rapid Fire Frame",
 				"bodyDamage": 14.0,
 				"critDamage": 24.0,
-				"critMultiplier": 1.7,
 				"rpm": 540,
 				"shotsPerBurst": 3,
 				"framesPerBurst": 9
@@ -386,7 +368,6 @@
 				"name": "Pulse Rifle - Lightweight Frame",
 				"bodyDamage": 15.0,
 				"critDamage": 25.0,
-				"critMultiplier": 1.66,
 				"rpm": 450,
 				"shotsPerBurst": 3,
 				"framesPerBurst": 9
@@ -395,7 +376,6 @@
 				"name": "Pulse Rifle - Legacy PR-55 Frame",
 				"bodyDamage": 15.0,
 				"critDamage": 25.0,
-				"critMultiplier": 1.66,
 				"rpm": 450,
 				"shotsPerBurst": 3,
 				"framesPerBurst": 9
@@ -404,7 +384,6 @@
 				"name": "Pulse Rifle - Adaptive Frame",
 				"bodyDamage": 20.0,
 				"critDamage": 31.0,
-				"critMultiplier": 1.55,
 				"rpm": 390,
 				"shotsPerBurst": 3,
 				"framesPerBurst": 9
@@ -413,7 +392,6 @@
 				"name": "Pulse Rifle - High-Impact Frame",
 				"bodyDamage": 22.0,
 				"critDamage": 36.0,
-				"critMultiplier": 1.64,
 				"rpm": 340,
 				"shotsPerBurst": 3,
 				"framesPerBurst": 9
@@ -422,7 +400,6 @@
 				"name": "Pulse Rifle - Aggressive Frame",
 				"bodyDamage": 16.0,
 				"critDamage": 27.0,
-				"critMultiplier": 1.70,
 				"rpm": 450,
 				"shotsPerBurst": 4,
 				"framesPerBurst": 12
@@ -431,7 +408,6 @@
 				"name": "Pulse Rifle - Vigilance Wing",
 				"bodyDamage": 16.0,
 				"critDamage": 24.0,
-				"critMultiplier": 1.50,
 				"rpm": 530,
 				"shotsPerBurst": 5,
 				"framesPerBurst": 15
@@ -440,7 +416,6 @@
 				"name": "Pulse Rifle - Graviton Lance",
 				"bodyDamage": 23.0,
 				"critDamage": 37.0,
-				"critMultiplier": 1.61,
 				"rpm": 257,
 				"shotsPerBurst": 2
 			},
@@ -448,19 +423,78 @@
 				"name": "Pulse Rifle - No Time To Explain",
 				"bodyDamage": 22.0,
 				"critDamage": 36.0,
-				"critMultiplier": 1.64,
 				"rpm": 340,
 				"shotsPerBurst": 3,
 				"framesPerBurst": 6
 			}
 		},
 		"9": {
+			"878286503": {
+				"name": "Fusion Rifle - Rapid Fire",
+				"bodyDamage": 29.0,
+				"critDamage": 29.0,
+				"chargeRate": 467,
+				"shotsPerBurst": 7,
+				"framesPerBurst": 14
+			},
 			"1294026524": {
-				"name": "Fusion Rifle - Adaptive Frame",
-				"bodyDamage": 1.0,
-				"critDamage": 1.0,
-				"critMultiplier": 1.0,
-				"rpm": 1
+				"name": "Fusion Rifle - Adaptive",
+				"bodyDamage": 39.0,
+				"critDamage": 39.0,
+				"chargeRate": 667,
+				"shotsPerBurst": 7,
+				"framesPerBurst": 14
+			},
+			"2518716062": {
+				"name": "Fusion Rifle - Aggressive",
+				"bodyDamage": 46.0,
+				"critDamage": 46.0,
+				"chargeRate": 667,
+				"shotsPerBurst": 7
+			},
+			"1636108362": {
+				"name": "Fusion Rifle - Precision",
+				"bodyDamage": 40.0,
+				"critDamage": 40.0,
+				"chargeRate": 733,
+				"shotsPerBurst": 7,
+				"framesPerBurst": 14
+			},
+			"1019291327": {
+				"name": "Fusion Rifle - High Impact",
+				"bodyDamage": 62.0,
+				"critDamage": 62.0,
+				"chargeRate": 1000,
+				"shotsPerBurst": 7,
+				"framesPerBurst": 14
+			},
+			"656200654": {
+				"name": "Fusion Rifle - Merciless",
+				"bodyDamage": 63.0,
+				"critDamage": 63.0,
+				"chargeRate": 1033,
+				"shotsPerBurst": 7
+			},
+			"1656957541": {
+				"name": "Fusion Rifle - Jötunn",
+				"bodyDamage": 323.0,
+				"critDamage": 323.0,
+				"chargeRate": 767
+			},
+			"1186480754": {
+				"name": "Fusion Rifle - Bastion",
+				"bodyDamage": 27.0,
+				"critDamage": 27.0,
+				"chargeRate": 733,
+				"shotsPerBurst": 24
+			},
+			"1927916065": {
+				"name": "Fusion Rifle - Telesto",
+				"bodyDamage": 27.0,
+				"critDamage": 27.0,
+				"chargeRate": 767,
+				"shotsPerBurst": 7,
+				"framesPerBurst": 14
 			}
 		},
 		"1504945536": {
@@ -468,40 +502,65 @@
 				"name": "Linear Fusion Rifle - Precision Frame",
 				"bodyDamage": 166.0,
 				"critDamage": 497.0,
-				"rpm": 533
+				"chargeRate": 533
 			},
 			"1531126198": {
 				"name": "Linear Fusion Rifle - The Queensbreaker",
 				"bodyDamage": 131.0,
 				"critDamage": 326.0,
-				"rpm": 300
+				"chargeRate": 300
 			},
 			"2881100038": {
 				"name": "Linear Fusion Rifle - Lorentz Driver",
 				"bodyDamage": 166.0,
 				"critDamage": 497.0,
-				"rpm": 533
+				"chargeRate": 533
 			},
 			"2564164194": {
 				"name": "Linear Fusion Rifle - Arbalest",
 				"bodyDamage": 166.0,
 				"critDamage": 497.0,
-				"rpm": 533
+				"chargeRate": 533
 			},
 			"3884127242": {
 				"name": "Linear Fusion Rifle - Sleeper Simulant",
 				"bodyDamage": 747.0,
 				"critDamage": 901.0,
-				"rpm": 1033
+				"chargeRate": 1033
 			}
 		},
 		"3317538576": {
-			"1294026524": {
-				"name": "Bow - Adaptive Frame",
-				"bodyDamage": 1.0,
-				"critDamage": 1.0,
-				"critMultiplier": 1.0,
-				"rpm": 1
+			"715195141": {
+				"name": "Bow - Precision Frame",
+				"bodyDamage": 151.0,
+				"critDamage": 101.0,
+				"chargeRate": 667
+			},
+			"2108556049": {
+				"name": "Bow - Lightweight Frame",
+				"bodyDamage": 138.0,
+				"critDamage": 86.0,
+				"chargeRate": 600
+			},
+			"1573888036": {
+				"name": "Bow - Trinity Ghoul",
+				"bodyDamage": 33.0,
+				"critDamage": 49.0,
+				"chargeRate": 733,
+				"shotsPerBurst": 3,
+				"framesPerBurst": 2
+			},
+			"2186532310": {
+				"name": "Bow - Le Monarque",
+				"bodyDamage": 125.0,
+				"critDamage": 175.0,
+				"chargeRate": 667
+			},
+			"1470121888": {
+				"name": "Bow - Wish Ender",
+				"bodyDamage": 102.0,
+				"critDamage": 160.0,
+				"chargeRate": 800
 			}
 		},
 		"153950757": {
@@ -509,7 +568,6 @@
 				"name": "Grenade Launchers - Adaptive Frame",
 				"bodyDamage": 1.0,
 				"critDamage": 1.0,
-				"critMultiplier": 1.0,
 				"rpm": 1
 			}
 		},
@@ -518,7 +576,6 @@
 				"name": "Rocket Launchers - Adaptive Frame",
 				"bodyDamage": 1.0,
 				"critDamage": 1.0,
-				"critMultiplier": 1.0,
 				"rpm": 1
 			}
 		}
