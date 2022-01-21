@@ -464,12 +464,35 @@
 			}
 		},
 		"1504945536": {
-			"1294026524": {
-				"name": "Linear Fusion Rifle - Adaptive Frame",
-				"bodyDamage": 1.0,
-				"critDamage": 1.0,
-				"critMultiplier": 1.0,
-				"rpm": 1
+			"2057203855": {
+				"name": "Linear Fusion Rifle - Precision Frame",
+				"bodyDamage": 166.0,
+				"critDamage": 497.0,
+				"rpm": 533
+			},
+			"1531126198": {
+				"name": "Linear Fusion Rifle - The Queensbreaker",
+				"bodyDamage": 131.0,
+				"critDamage": 326.0,
+				"rpm": 300
+			},
+			"2881100038": {
+				"name": "Linear Fusion Rifle - Lorentz Driver",
+				"bodyDamage": 166.0,
+				"critDamage": 497.0,
+				"rpm": 533
+			},
+			"2564164194": {
+				"name": "Linear Fusion Rifle - Arbalest",
+				"bodyDamage": 166.0,
+				"critDamage": 497.0,
+				"rpm": 533
+			},
+			"3884127242": {
+				"name": "Linear Fusion Rifle - Sleeper Simulant",
+				"bodyDamage": 747.0,
+				"critDamage": 901.0,
+				"rpm": 1033
 			}
 		},
 		"3317538576": {
