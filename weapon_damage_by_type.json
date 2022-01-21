@@ -137,8 +137,8 @@
 			},
 			"1294026524" : {
 				"name": "Sniper Rifle - Adaptive Frame",
-				"bodyDamage": 386.0,
-				"critDamage": 131.0,
+				"bodyDamage": 131.0,
+				"critDamage": 386.0,
 				"rpm": 90
 			},
 			"3468089894": {
@@ -149,8 +149,8 @@
 			},
 			"1070100196": {
 				"name": "Sniper Rifle - Izanagi's Burden",
-				"bodyDamage": 386.0,
-				"critDamage": 131.0,
+				"bodyDamage": 131.0,
+				"critDamage": 386.0,
 				"rpm": 90
 			},
 			"2909403175": {
