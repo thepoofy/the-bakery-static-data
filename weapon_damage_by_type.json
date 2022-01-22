@@ -88,6 +88,12 @@
 				"rpm": 386,
 				"shotsPerBurst": 3,
 				"framesPerBurst": 21
+			},
+			"647617635": {
+				"name": "Hand Cannon - Ace of Spades",
+				"bodyDamage": 47.0,
+				"critDamage": 70.0,
+				"rpm": 139
 			}
 		},
 		"8": {
