@@ -627,6 +627,64 @@
 			"name": "Box Breathing",
 			"damageMultiplier": 1.66,
 			"isInstantlyConsumed": true
+		},
+		"2610012052": {
+			"name": "Golden Tricorn",
+			"stackingDamageMultipliers": [1.15, 1.5]
+		},
+		"3673922083": {
+			"name": "Adagio",
+			"damageMultiplier": 1.25,
+			"rofMultiplier": 0.8
+		},
+		"1771339417": {
+			"name": "Firing Line",
+			"critDamageMultiplier": 1.2
+		},
+		"1754714824": {
+			"name": "Kickstart",
+			"damageMultiplier": 1.2,
+			"rofMultiplier": 1.0
+		},
+		"1427256713": {
+			"name": "Reservoir Burst",
+			"damageMultiplier": 1.25
+		},
+		"2360754333": {
+			"name": "Trench Barrel",
+			"damageMultiplier": 1.5
+		},
+		"1687452232": {
+			"name": "Liquid Coils",
+			"damageMultiplier": 1.02
+		},
+		"689005463": {
+			"name": "Accelerated Coils",
+			"damageMultiplier": 0.98
+		},
+		"647617635": {
+			"name": "Memento Mori",
+			"damageMultiplier": 1.285
+		},
+		"2814973067": {
+			"name": "Markov Chain",
+			"stackingDamageMultipliers": [1.066, 1.132, 1.198, 1.264, 1.33]
+		},
+		"1319823571": {
+			"name": "Cranial Spike",
+			"scalingDamageMultipliers": [1.0, 1.074, 1.123, 1.123, 1.16, 1.198]
+		},
+		"1658733671": {
+			"name": "The Roadborn",
+			"damageMultiplier": 1.17
+		},
+		"1070100196": {
+			"name": "Honed Edge",
+			"stackingDamageMultipliers": [1.0, 1.1832, 1.4122, 2.5]
+		},
+		"2516532331": {
+			"name": "Arc Conductor",
+			"damageMultiplier": 1.1
 		}
 	}
 }
