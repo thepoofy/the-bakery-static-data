@@ -438,16 +438,16 @@
 		"9": {
 			"878286503": {
 				"name": "Fusion Rifle - Rapid Fire",
-				"bodyDamage": 29.0,
-				"critDamage": 29.0,
+				"bodyDamage": 29.4,
+				"critDamage": 29.4,
 				"chargeRate": 467,
 				"shotsPerBurst": 7,
 				"framesPerBurst": 14
 			},
 			"1294026524": {
 				"name": "Fusion Rifle - Adaptive",
-				"bodyDamage": 39.0,
-				"critDamage": 39.0,
+				"bodyDamage": 38.6,
+				"critDamage": 38.6,
 				"chargeRate": 667,
 				"shotsPerBurst": 7,
 				"framesPerBurst": 14
@@ -641,7 +641,7 @@
 		"3673922083": {
 			"name": "Adagio",
 			"damageMultiplier": 1.25,
-			"rofMultiplier": 0.8
+			"chargeRateMultiplier": 0.8
 		},
 		"1771339417": {
 			"name": "Firing Line",
@@ -650,7 +650,7 @@
 		"1754714824": {
 			"name": "Kickstart",
 			"damageMultiplier": 1.2,
-			"rofMultiplier": 1.0
+			"chargeRateMultiplier": 1.122
 		},
 		"1427256713": {
 			"name": "Reservoir Burst",
@@ -662,11 +662,13 @@
 		},
 		"1687452232": {
 			"name": "Liquid Coils",
-			"damageMultiplier": 1.02
+			"damageMultiplier": 1.02,
+			"chargeRateMultiplier": 0.975
 		},
 		"689005463": {
 			"name": "Accelerated Coils",
-			"damageMultiplier": 0.98
+			"damageMultiplier": 0.98,
+			"chargeRateMultiplier": 1.0488
 		},
 		"647617635": {
 			"name": "Memento Mori",
