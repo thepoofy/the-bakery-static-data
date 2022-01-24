@@ -656,7 +656,7 @@
 		"1754714824": {
 			"name": "Kickstart",
 			"damageMultiplier": 1.2,
-			"chargeRateMultiplier": 1.122
+			"chargeRateMultiplier": 1.1
 		},
 		"1427256713": {
 			"name": "Reservoir Burst",
@@ -669,12 +669,12 @@
 		"1687452232": {
 			"name": "Liquid Coils",
 			"damageMultiplier": 1.02,
-			"chargeRateMultiplier": 0.975
+			"chargeRateMultiplier": 0.95
 		},
 		"689005463": {
 			"name": "Accelerated Coils",
 			"damageMultiplier": 0.98,
-			"chargeRateMultiplier": 1.0488
+			"chargeRateMultiplier": 1.05
 		},
 		"647617635": {
 			"name": "Memento Mori",
