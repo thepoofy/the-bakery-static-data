@@ -173,6 +173,12 @@
 				"critDamage": 258.0,
 				"rpm": 64
 			},
+			"1394384862": {
+				"name": "Shotgun - The Chaperone",
+				"bodyDamage": 151.0,
+				"critDamage": 258.0,
+				"rpm": 70
+			},
 			"481338655": {
 				"name": "Lord of Wolves",
 				"bodyDamage": 39.0,
