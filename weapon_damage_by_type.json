@@ -87,7 +87,7 @@
 				"critDamage": 31.0,
 				"rpm": 386,
 				"shotsPerBurst": 3,
-				"framesPerBurst": 21
+				"framesPerBurst": 14
 			},
 			"647617635": {
 				"name": "Hand Cannon - Ace of Spades",
@@ -245,7 +245,7 @@
 				"critDamage": 32.0,
 				"rpm": 491,
 				"shotsPerBurst": 3,
-				"framesPerBurst": 9
+				"framesPerBurst": 10
 			},
 			"3330548924": {
 				"name": "Sidearm - Aggressive Burst",
@@ -253,7 +253,7 @@
 				"critDamage": 45.0,
 				"rpm": 325,
 				"shotsPerBurst": 3,
-				"framesPerBurst": 7
+				"framesPerBurst": 8
 			},
 			"1458010786": {
 				"name": "Sidearm - Lightweight Frame",
@@ -375,7 +375,7 @@
 				"critDamage": 24.0,
 				"rpm": 540,
 				"shotsPerBurst": 3,
-				"framesPerBurst": 9
+				"framesPerBurst": 10
 			},
 			"1458010786": {
 				"name": "Pulse Rifle - Lightweight Frame",
@@ -383,7 +383,7 @@
 				"critDamage": 25.0,
 				"rpm": 450,
 				"shotsPerBurst": 3,
-				"framesPerBurst": 9
+				"framesPerBurst": 10
 			},
 			"4172222323": {
 				"name": "Pulse Rifle - Legacy PR-55 Frame",
@@ -391,7 +391,7 @@
 				"critDamage": 25.0,
 				"rpm": 450,
 				"shotsPerBurst": 3,
-				"framesPerBurst": 9
+				"framesPerBurst": 10
 			},
 			"1294026524": {
 				"name": "Pulse Rifle - Adaptive Frame",
@@ -399,7 +399,7 @@
 				"critDamage": 31.0,
 				"rpm": 390,
 				"shotsPerBurst": 3,
-				"framesPerBurst": 9
+				"framesPerBurst": 10
 			},
 			"1019291327": {
 				"name": "Pulse Rifle - High-Impact Frame",
@@ -407,7 +407,7 @@
 				"critDamage": 36.0,
 				"rpm": 340,
 				"shotsPerBurst": 3,
-				"framesPerBurst": 9
+				"framesPerBurst": 10
 			},
 			"2874284214": {
 				"name": "Pulse Rifle - Aggressive Frame",
@@ -415,7 +415,7 @@
 				"critDamage": 27.0,
 				"rpm": 450,
 				"shotsPerBurst": 4,
-				"framesPerBurst": 12
+				"framesPerBurst": 14
 			},
 			"2307143135": {
 				"name": "Pulse Rifle - Vigilance Wing",
@@ -423,14 +423,15 @@
 				"critDamage": 24.0,
 				"rpm": 530,
 				"shotsPerBurst": 5,
-				"framesPerBurst": 15
+				"framesPerBurst": 18
 			},
 			"3905543891": {
 				"name": "Pulse Rifle - Graviton Lance",
 				"bodyDamage": 23.0,
 				"critDamage": 37.0,
 				"rpm": 257,
-				"shotsPerBurst": 2
+				"shotsPerBurst": 2,
+				"framesPerBurst": 6
 			},
 			"3837077246": {
 				"name": "Pulse Rifle - No Time To Explain",
@@ -438,7 +439,7 @@
 				"critDamage": 36.0,
 				"rpm": 340,
 				"shotsPerBurst": 3,
-				"framesPerBurst": 6
+				"framesPerBurst": 10
 			}
 		},
 		"9": {
@@ -499,7 +500,8 @@
 				"bodyDamage": 27.0,
 				"critDamage": 27.0,
 				"chargeRate": 733,
-				"shotsPerBurst": 24
+				"shotsPerBurst": 3,
+				"framesPerBurst": 14
 			},
 			"1927916065": {
 				"name": "Fusion Rifle - Telesto",
