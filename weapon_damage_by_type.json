@@ -3,27 +3,27 @@
 		"5": {
 			"1294026524" :{
 				"name": "Auto Rifle - Adaptive Frame",
-				"bodyDamage": 14.0,
-				"critDamage": 23.0,
+				"bodyDamage": 14.25,
+				"critDamage": 22.8,
 				"rpm": 600
 			},
 			"878286503": {
 				"name": "Auto Rifle - Rapid-Fire Frame",
-				"bodyDamage": 13.0,
-				"critDamage": 20.0,
+				"bodyDamage": 13.4,
+				"critDamage": 20.1,
 				"rpm": 720
 			},
 			"1636108362": {
 				"name": "Auto Rifle - Precision Frame",
 				"bodyDamage": 18.0,
-				"critDamage": 29.0,
+				"critDamage": 28.8,
 				"rpm": 450
 			},
 			"1019291327": {
 				"name": "Auto Rifle - High-Impact Frame",
 				"bodyDamage": 22.0,
-				"critDamage": 35.0,
-				"rpm": 240
+				"critDamage": 35.2,
+				"rpm": 360
 			}
 		},
 		"6": {
@@ -35,7 +35,7 @@
 			},
 			"1322370662": {
 				"name": "Hand Cannon - Precision Frame",
-				"bodyDamage": 38.0,
+				"bodyDamage": 38.2,
 				"critDamage": 57.0,
 				"rpm": 180
 			},
@@ -84,7 +84,7 @@
 			"1030990989": {
 				"name": "Hand Cannon - Crimson (Banned Weapon)",
 				"bodyDamage": 19.0,
-				"critDamage": 31.0,
+				"critDamage": 30.5,
 				"rpm": 386,
 				"shotsPerBurst": 3,
 				"framesPerBurst": 14
@@ -100,7 +100,7 @@
 			"3920852688": {
 				"name": "Scout Rifle - Rapid-Fire Frame",
 				"bodyDamage": 28.0,
-				"critDamage": 47.0,
+				"critDamage": 46.9,
 				"rpm": 257
 			},
 			"3364911712": {
@@ -242,7 +242,7 @@
 			"31057037": {
 				"name": "Sidearm - Omolon Adaptive Burst",
 				"bodyDamage": 20.0,
-				"critDamage": 32.0,
+				"critDamage": 32.1,
 				"rpm": 491,
 				"shotsPerBurst": 3,
 				"framesPerBurst": 10
@@ -372,8 +372,8 @@
 			"878286503": {
 				"name": "Pulse Rifle - Rapid Fire Frame",
 				"bodyDamage": 14.0,
-				"critDamage": 24.0,
-				"rpm": 540,
+				"critDamage": 23.8,
+				"rpm": 569,
 				"shotsPerBurst": 3,
 				"framesPerBurst": 10
 			},
@@ -497,8 +497,8 @@
 			},
 			"1186480754": {
 				"name": "Fusion Rifle - Bastion",
-				"bodyDamage": 27.0,
-				"critDamage": 27.0,
+				"bodyDamage": 26.5,
+				"critDamage": 26.5,
 				"chargeRate": 733,
 				"shotsPerBurst": 3,
 				"framesPerBurst": 14
