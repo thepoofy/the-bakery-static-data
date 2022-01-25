@@ -721,6 +721,10 @@
 		"3689550782": {
 			"name": "Draw Time Masterwork",
 			"chargeRateMultiplier": 1.0
+		},
+		"3047969693": {
+			"name": "Desperado",
+			"rpmMultiplier": 1.667
 		}
 	}
 }
