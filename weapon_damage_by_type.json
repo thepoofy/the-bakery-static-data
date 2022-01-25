@@ -649,7 +649,7 @@
 		"3673922083": {
 			"name": "Adagio",
 			"damageMultiplier": 1.25,
-			"chargeRateMultiplier": 0.8
+			"chargeRateMultiplier": 1.2
 		},
 		"1771339417": {
 			"name": "Firing Line",
@@ -658,7 +658,7 @@
 		"1754714824": {
 			"name": "Kickstart",
 			"damageMultiplier": 1.2,
-			"chargeRateMultiplier": 1.1
+			"chargeRateMultiplier": 0.9
 		},
 		"1427256713": {
 			"name": "Reservoir Burst",
@@ -671,12 +671,12 @@
 		"1687452232": {
 			"name": "Liquid Coils",
 			"damageMultiplier": 1.02,
-			"chargeRateMultiplier": 0.95
+			"chargeRateMultiplier": 1.05
 		},
 		"689005463": {
 			"name": "Accelerated Coils",
 			"damageMultiplier": 0.98,
-			"chargeRateMultiplier": 1.05
+			"chargeRateMultiplier": 0.95
 		},
 		"647617635": {
 			"name": "Memento Mori",
@@ -701,6 +701,26 @@
 		"2516532331": {
 			"name": "Arc Conductor",
 			"damageMultiplier": 1.1
+		},
+		"744770875": {
+			"name": "Adept Charge Time",
+			"chargeRateMultiplier": 1.0
+		},
+		"1431498388": {
+			"name": "Charge Time Masterwork",
+			"chargeRateMultiplier": 1.0
+		},
+		"3128594062": {
+			"name": "Charge Time Masterwork (Adept)",
+			"chargeRateMultiplier": 1.0
+		},
+		"1639384016": {
+			"name": "Draw Time Masterwork (Adept)",
+			"chargeRateMultiplier": 1.0
+		},
+		"3689550782": {
+			"name": "Draw Time Masterwork",
+			"chargeRateMultiplier": 1.0
 		}
 	}
 }
