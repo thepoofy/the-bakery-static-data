@@ -704,18 +704,18 @@
 		},
 		"744770875": {
 			"name": "Adept Charge Time",
-			"chargeRateMultiplier": 1.0
+			"chargeRateMultiplier": 0.95
 		},
 		"1431498388": {
 			"name": "Charge Time Masterwork",
-			"chargeRateMultiplier": 1.0
+			"chargeRateMultiplier": 0.95
 		},
 		"3128594062": {
-			"name": "Charge Time Masterwork (Adept)",
-			"chargeRateMultiplier": 1.0
+			"name": "Charge Time Masterwork",
+			"chargeRateMultiplier": 0.95
 		},
 		"1639384016": {
-			"name": "Draw Time Masterwork (Adept)",
+			"name": "Draw Time Masterwork",
 			"chargeRateMultiplier": 1.0
 		},
 		"3689550782": {
