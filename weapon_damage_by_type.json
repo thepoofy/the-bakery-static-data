@@ -727,6 +727,10 @@
 		"3047969693": {
 			"name": "Desperado",
 			"rpmMultiplier": 1.667
+		},
+		"1471333428": {
+			"name": "Surrounded Spec",
+			"damageMultiplier": 1.077
 		}
 	}
 }
