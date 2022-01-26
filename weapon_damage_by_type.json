@@ -708,10 +708,12 @@
 		},
 		"1431498388": {
 			"name": "Charge Time Masterwork",
+			"damageMultiplier": 0.98,
 			"chargeRateMultiplier": 0.95
 		},
 		"3128594062": {
 			"name": "Charge Time Masterwork",
+			"damageMultiplier": 0.98,
 			"chargeRateMultiplier": 0.95
 		},
 		"1639384016": {
