@@ -246,7 +246,63 @@
 					"3673922083": {
 						"name": "Adagio",
 						"damageMultiplier": 1.20,
-						"chargeRateMultiplier": 1.15
+						"rpmMultiplier": 1.20
+					}
+				}
+			},
+			"996573084": {
+				"name": "Shotgun - Rapid Fire",
+				"bodyDamage": 15.0,
+				"critDamage": 15.0,
+				"rpm": 139,
+				"shotsPerBurst": 12,
+				"perkModifiers": {
+					"3673922083": {
+						"name": "Adagio",
+						"damageMultiplier": 1.20,
+						"rpmMultiplier": 1.20
+					}
+				}
+			},
+			"1458010786": {
+				"name": "Shotgun - Lightweight",
+				"bodyDamage": 18.5,
+				"critDamage": 18.5,
+				"rpm": 78,
+				"shotsPerBurst": 12,
+				"perkModifiers": {
+					"3673922083": {
+						"name": "Adagio",
+						"damageMultiplier": 1.20,
+						"rpmMultiplier": 1.20
+					}
+				}
+			},
+			"895140517": {
+				"name": "Shotgun - Precision",
+				"bodyDamage": 19.5,
+				"critDamage": 19.5,
+				"rpm": 64,
+				"shotsPerBurst": 12,
+				"perkModifiers": {
+					"3673922083": {
+						"name": "Adagio",
+						"damageMultiplier": 1.20,
+						"rpmMultiplier": 1.20
+					}
+				}
+			},
+			"3983457027": {
+				"name": "Shotgun - Aggressive",
+				"bodyDamage": 22.0,
+				"critDamage": 22.0,
+				"rpm": 55,
+				"shotsPerBurst": 12,
+				"perkModifiers": {
+					"3673922083": {
+						"name": "Adagio",
+						"damageMultiplier": 1.20,
+						"rpmMultiplier": 1.20
 					}
 				}
 			},
@@ -857,6 +913,10 @@
 		"1471333428": {
 			"name": "Surrounded Spec",
 			"damageMultiplier": 1.077
+		},
+		"806159697": {
+			"name": "Trench Barrel",
+			"damageMultiplier": 1.50
 		}
 	}
 }
