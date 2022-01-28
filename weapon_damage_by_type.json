@@ -5,25 +5,53 @@
 				"name": "Auto Rifle - Adaptive Frame",
 				"bodyDamage": 14.25,
 				"critDamage": 22.8,
-				"rpm": 600
+				"rpm": 600,
+				"perkModifiers": {
+					"3673922083": {
+						"name": "Adagio",
+						"damageMultiplier": 1.25,
+						"chargeRateMultiplier": 1.20
+					}
+				}
 			},
 			"878286503": {
 				"name": "Auto Rifle - Rapid-Fire Frame",
 				"bodyDamage": 13.4,
 				"critDamage": 20.1,
-				"rpm": 720
+				"rpm": 720,
+				"perkModifiers": {
+					"3673922083": {
+						"name": "Adagio",
+						"damageMultiplier": 1.25,
+						"chargeRateMultiplier": 1.20
+					}
+				}
 			},
 			"1636108362": {
 				"name": "Auto Rifle - Precision Frame",
 				"bodyDamage": 18.0,
 				"critDamage": 28.8,
-				"rpm": 450
+				"rpm": 450,
+				"perkModifiers": {
+					"3673922083": {
+						"name": "Adagio",
+						"damageMultiplier": 1.25,
+						"chargeRateMultiplier": 1.20
+					}
+				}
 			},
 			"1019291327": {
 				"name": "Auto Rifle - High-Impact Frame",
 				"bodyDamage": 22.0,
 				"critDamage": 35.2,
-				"rpm": 360
+				"rpm": 360,
+				"perkModifiers": {
+					"3673922083": {
+						"name": "Adagio",
+						"damageMultiplier": 1.25,
+						"chargeRateMultiplier": 1.20
+					}
+				}
 			}
 		},
 		"6": {
@@ -31,19 +59,40 @@
 				"name": "Hand Cannon - Adaptive Frame",
 				"bodyDamage": 47.0,
 				"critDamage": 70.0,
-				"rpm": 139
+				"rpm": 139,
+				"perkModifiers": {
+					"3673922083": {
+						"name": "Adagio",
+						"damageMultiplier": 1.25,
+						"chargeRateMultiplier": 1.15
+					}
+				}
 			},
 			"1322370662": {
 				"name": "Hand Cannon - Precision Frame",
 				"bodyDamage": 38.2,
 				"critDamage": 57.0,
-				"rpm": 180
+				"rpm": 180,
+				"perkModifiers": {
+					"3673922083": {
+						"name": "Adagio",
+						"damageMultiplier": 1.25,
+						"chargeRateMultiplier": 1.15
+					}
+				}
 			},
 			"2757685314": {
 				"name": "Hand Cannon - Aggressive Frame",
 				"bodyDamage": 50.0,
 				"critDamage": 80.0,
-				"rpm": 120
+				"rpm": 120,
+				"perkModifiers": {
+					"3673922083": {
+						"name": "Adagio",
+						"damageMultiplier": 1.25,
+						"chargeRateMultiplier": 1.15
+					}
+				}
 			},
 			"3923638944": {
 				"name": "Hand Cannon - Double Fire Frame",
@@ -139,19 +188,40 @@
 				"name": "Sniper Rifle - Rapid-Fire Frame",
 				"bodyDamage": 90.0,
 				"critDamage": 293.0,
-				"rpm": 139
+				"rpm": 139,
+				"perkModifiers": {
+					"2551157718": {
+						"name": "Box Breathing",
+						"critDamageMultiplier": 1.31,
+						"isInstantlyConsumed": true
+					}
+				}
 			},
 			"1294026524" : {
 				"name": "Sniper Rifle - Adaptive Frame",
 				"bodyDamage": 131.0,
 				"critDamage": 386.0,
-				"rpm": 90
+				"rpm": 90,
+				"perkModifiers": {
+					"2551157718": {
+						"name": "Box Breathing",
+						"critDamageMultiplier": 1.31,
+						"isInstantlyConsumed": true
+					}
+				}
 			},
 			"3468089894": {
 				"name": "Sniper Rifle - Aggressive Frame",
 				"bodyDamage": 158.0,
 				"critDamage": 474.0,
-				"rpm": 72
+				"rpm": 72,
+				"perkModifiers": {
+					"2551157718": {
+						"name": "Box Breathing",
+						"critDamageMultiplier": 1.37,
+						"isInstantlyConsumed": true
+					}
+				}
 			},
 			"1070100196": {
 				"name": "Sniper Rifle - Izanagi's Burden",
@@ -171,7 +241,14 @@
 				"name": "Shotgun - Pinpoint Slug Frame",
 				"bodyDamage": 151.0,
 				"critDamage": 258.0,
-				"rpm": 64
+				"rpm": 64,
+				"perkModifiers": {
+					"3673922083": {
+						"name": "Adagio",
+						"damageMultiplier": 1.20,
+						"chargeRateMultiplier": 1.15
+					}
+				}
 			},
 			"1394384862": {
 				"name": "Shotgun - The Chaperone",
@@ -449,7 +526,14 @@
 				"critDamage": 29.4,
 				"chargeRate": 467,
 				"shotsPerBurst": 7,
-				"framesPerBurst": 14
+				"framesPerBurst": 14,
+				"perkModifiers": {
+					"3673922083": {
+						"name": "Adagio",
+						"damageMultiplier": 1.27,
+						"chargeRateMultiplier": 1.15
+					}
+				}
 			},
 			"1294026524": {
 				"name": "Fusion Rifle - Adaptive",
@@ -457,14 +541,28 @@
 				"critDamage": 38.6,
 				"chargeRate": 667,
 				"shotsPerBurst": 7,
-				"framesPerBurst": 14
+				"framesPerBurst": 14,
+				"perkModifiers": {
+					"3673922083": {
+						"name": "Adagio",
+						"damageMultiplier": 1.27,
+						"chargeRateMultiplier": 1.15
+					}
+				}
 			},
 			"2518716062": {
 				"name": "Fusion Rifle - Aggressive",
 				"bodyDamage": 46.0,
 				"critDamage": 46.0,
 				"chargeRate": 667,
-				"shotsPerBurst": 7
+				"shotsPerBurst": 7,
+				"perkModifiers": {
+					"3673922083": {
+						"name": "Adagio",
+						"damageMultiplier": 1.27,
+						"chargeRateMultiplier": 1.15
+					}
+				}
 			},
 			"1636108362": {
 				"name": "Fusion Rifle - Precision",
@@ -472,7 +570,14 @@
 				"critDamage": 40.0,
 				"chargeRate": 733,
 				"shotsPerBurst": 7,
-				"framesPerBurst": 14
+				"framesPerBurst": 14,
+				"perkModifiers": {
+					"3673922083": {
+						"name": "Adagio",
+						"damageMultiplier": 1.27,
+						"chargeRateMultiplier": 1.15
+					}
+				}
 			},
 			"1019291327": {
 				"name": "Fusion Rifle - High Impact",
@@ -480,7 +585,14 @@
 				"critDamage": 62.0,
 				"chargeRate": 1000,
 				"shotsPerBurst": 7,
-				"framesPerBurst": 14
+				"framesPerBurst": 14,
+				"perkModifiers": {
+					"3673922083": {
+						"name": "Adagio",
+						"damageMultiplier": 1.27,
+						"chargeRateMultiplier": 1.15
+					}
+				}
 			},
 			"656200654": {
 				"name": "Fusion Rifle - Merciless",
@@ -549,13 +661,27 @@
 				"name": "Bow - Precision Frame",
 				"bodyDamage": 101.0,
 				"critDamage": 151.0,
-				"chargeRate": 667
+				"chargeRate": 667,
+				"perkModifiers": {
+					"3673922083": {
+						"name": "Adagio",
+						"damageMultiplier": 1.20,
+						"chargeRateMultiplier": 1.20
+					}
+				}
 			},
 			"2108556049": {
 				"name": "Bow - Lightweight Frame",
 				"bodyDamage": 86.0,
 				"critDamage": 138.0,
-				"chargeRate": 600
+				"chargeRate": 600,
+				"perkModifiers": {
+					"3673922083": {
+						"name": "Adagio",
+						"damageMultiplier": 1.20,
+						"chargeRateMultiplier": 1.20
+					}
+				}
 			},
 			"1573888036": {
 				"name": "Bow - Trinity Ghoul",
@@ -639,7 +765,7 @@
 		},
 		"2551157718": {
 			"name": "Box Breathing",
-			"damageMultiplier": 1.66,
+			"critDamageMultiplier": 1.66,
 			"isInstantlyConsumed": true
 		},
 		"2610012052": {
