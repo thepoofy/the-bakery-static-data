@@ -917,6 +917,12 @@
 		"806159697": {
 			"name": "Trench Barrel",
 			"damageMultiplier": 1.50
+		},
+		"830282363": {
+			"name": "Phase Magazine",
+			"rpmMultiplier": 0.667,
+			"critDamageMultiplier": 1.23,
+			"bodyDamageMultiplier": 1.45
 		}
 	}
 }
