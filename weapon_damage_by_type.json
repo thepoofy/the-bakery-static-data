@@ -125,9 +125,9 @@
 				"rpm": 150
 			},
 			"2770223582": {
-				"name": "Hand Cannon - The Last Word (Fan Fire)",
+				"name": "Hand Cannon - The Last Word (ADS)",
 				"bodyDamage": 38.0,
-				"critDamage": 68.0,
+				"critDamage": 52.2,
 				"rpm": 225
 			},
 			"1030990989": {
@@ -918,11 +918,9 @@
 			"name": "Trench Barrel",
 			"damageMultiplier": 1.50
 		},
-		"830282363": {
-			"name": "Phase Magazine",
-			"rpmMultiplier": 0.667,
-			"critDamageMultiplier": 1.23,
-			"bodyDamageMultiplier": 1.45
+		"2770223582": {
+			"name": "Fan Fire",
+			"critDamageMultiplier": 1.3079
 		}
 	}
 }
