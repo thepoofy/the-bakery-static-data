@@ -1,4 +1,32 @@
 {
+	"empoweringBuffs": [
+		{
+			"name": "High Energy Fire",
+			"damageMultiplier": 1.2
+		},
+		{
+			"name": "Well of Radiance",
+			"damageMultiplier": 1.25
+		},
+		{
+			"name": "Weapons of Light",
+			"damageMultiplier": 1.35
+		}
+	],
+	"globalDebuffs": [
+		{
+			"name": "Felwinter's Helm",
+			"damageMultiplier": 1.35
+		},
+		{
+			"name": "Disruption Break",
+			"damageMultiplier": 1.5
+		},
+		{
+			"name": "Tether",
+			"damageMultiplier": 1.5
+		}
+	],
 	"damageByWeaponTypeMap": {
 		"5": {
 			"1294026524" :{
