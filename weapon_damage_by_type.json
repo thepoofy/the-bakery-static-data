@@ -33,53 +33,25 @@
 				"name": "Auto Rifle - Adaptive Frame",
 				"bodyDamage": 14.25,
 				"critDamage": 22.8,
-				"rpm": 600,
-				"perkModifiers": {
-					"3673922083": {
-						"name": "Adagio",
-						"damageMultiplier": 1.25,
-						"chargeRateMultiplier": 1.20
-					}
-				}
+				"rpm": 600
 			},
 			"878286503": {
 				"name": "Auto Rifle - Rapid-Fire Frame",
 				"bodyDamage": 13.4,
 				"critDamage": 20.1,
-				"rpm": 720,
-				"perkModifiers": {
-					"3673922083": {
-						"name": "Adagio",
-						"damageMultiplier": 1.25,
-						"chargeRateMultiplier": 1.20
-					}
-				}
+				"rpm": 720
 			},
 			"1636108362": {
 				"name": "Auto Rifle - Precision Frame",
 				"bodyDamage": 18.0,
 				"critDamage": 28.8,
-				"rpm": 450,
-				"perkModifiers": {
-					"3673922083": {
-						"name": "Adagio",
-						"damageMultiplier": 1.25,
-						"chargeRateMultiplier": 1.20
-					}
-				}
+				"rpm": 450
 			},
 			"1019291327": {
 				"name": "Auto Rifle - High-Impact Frame",
 				"bodyDamage": 22.0,
 				"critDamage": 35.2,
-				"rpm": 360,
-				"perkModifiers": {
-					"3673922083": {
-						"name": "Adagio",
-						"damageMultiplier": 1.25,
-						"chargeRateMultiplier": 1.20
-					}
-				}
+				"rpm": 360
 			}
 		},
 		"6": {
@@ -91,7 +63,7 @@
 				"perkModifiers": {
 					"3673922083": {
 						"name": "Adagio",
-						"damageMultiplier": 1.25,
+						"damageMultiplier": 1.30,
 						"chargeRateMultiplier": 1.15
 					}
 				}
@@ -104,7 +76,7 @@
 				"perkModifiers": {
 					"3673922083": {
 						"name": "Adagio",
-						"damageMultiplier": 1.25,
+						"damageMultiplier": 1.30,
 						"chargeRateMultiplier": 1.15
 					}
 				}
@@ -117,7 +89,7 @@
 				"perkModifiers": {
 					"3673922083": {
 						"name": "Adagio",
-						"damageMultiplier": 1.25,
+						"damageMultiplier": 1.30,
 						"chargeRateMultiplier": 1.15
 					}
 				}
@@ -269,70 +241,35 @@
 				"name": "Shotgun - Pinpoint Slug Frame",
 				"bodyDamage": 151.0,
 				"critDamage": 258.0,
-				"rpm": 64,
-				"perkModifiers": {
-					"3673922083": {
-						"name": "Adagio",
-						"damageMultiplier": 1.20,
-						"rpmMultiplier": 1.20
-					}
-				}
+				"rpm": 64
 			},
 			"996573084": {
 				"name": "Shotgun - Rapid Fire",
 				"bodyDamage": 15.0,
 				"critDamage": 15.0,
 				"rpm": 139,
-				"shotsPerBurst": 12,
-				"perkModifiers": {
-					"3673922083": {
-						"name": "Adagio",
-						"damageMultiplier": 1.20,
-						"rpmMultiplier": 1.20
-					}
-				}
+				"shotsPerBurst": 12
 			},
 			"1458010786": {
 				"name": "Shotgun - Lightweight",
 				"bodyDamage": 18.5,
 				"critDamage": 18.5,
 				"rpm": 78,
-				"shotsPerBurst": 12,
-				"perkModifiers": {
-					"3673922083": {
-						"name": "Adagio",
-						"damageMultiplier": 1.20,
-						"rpmMultiplier": 1.20
-					}
-				}
+				"shotsPerBurst": 12
 			},
 			"895140517": {
 				"name": "Shotgun - Precision",
 				"bodyDamage": 19.5,
 				"critDamage": 19.5,
 				"rpm": 64,
-				"shotsPerBurst": 12,
-				"perkModifiers": {
-					"3673922083": {
-						"name": "Adagio",
-						"damageMultiplier": 1.20,
-						"rpmMultiplier": 1.20
-					}
-				}
+				"shotsPerBurst": 12
 			},
 			"3983457027": {
 				"name": "Shotgun - Aggressive",
 				"bodyDamage": 22.0,
 				"critDamage": 22.0,
 				"rpm": 55,
-				"shotsPerBurst": 12,
-				"perkModifiers": {
-					"3673922083": {
-						"name": "Adagio",
-						"damageMultiplier": 1.20,
-						"rpmMultiplier": 1.20
-					}
-				}
+				"shotsPerBurst": 12
 			},
 			"1394384862": {
 				"name": "Shotgun - The Chaperone",
@@ -614,7 +551,7 @@
 				"perkModifiers": {
 					"3673922083": {
 						"name": "Adagio",
-						"damageMultiplier": 1.27,
+						"damageMultiplier": 1.30,
 						"chargeRateMultiplier": 1.15
 					}
 				}
@@ -629,7 +566,7 @@
 				"perkModifiers": {
 					"3673922083": {
 						"name": "Adagio",
-						"damageMultiplier": 1.27,
+						"damageMultiplier": 1.30,
 						"chargeRateMultiplier": 1.15
 					}
 				}
@@ -643,7 +580,7 @@
 				"perkModifiers": {
 					"3673922083": {
 						"name": "Adagio",
-						"damageMultiplier": 1.27,
+						"damageMultiplier": 1.30,
 						"chargeRateMultiplier": 1.15
 					}
 				}
@@ -658,7 +595,7 @@
 				"perkModifiers": {
 					"3673922083": {
 						"name": "Adagio",
-						"damageMultiplier": 1.27,
+						"damageMultiplier": 1.30,
 						"chargeRateMultiplier": 1.15
 					}
 				}
@@ -673,7 +610,7 @@
 				"perkModifiers": {
 					"3673922083": {
 						"name": "Adagio",
-						"damageMultiplier": 1.27,
+						"damageMultiplier": 1.30,
 						"chargeRateMultiplier": 1.15
 					}
 				}
@@ -713,7 +650,14 @@
 				"name": "Linear Fusion Rifle - Precision Frame",
 				"bodyDamage": 166.0,
 				"critDamage": 497.0,
-				"chargeRate": 533
+				"chargeRate": 533,
+				"perkModifiers": {
+					"3673922083": {
+						"name": "Adagio",
+						"damageMultiplier": 1.30,
+						"chargeRateMultiplier": 1.15
+					}
+				}
 			},
 			"1531126198": {
 				"name": "Linear Fusion Rifle - The Queensbreaker",
@@ -858,8 +802,8 @@
 		},
 		"3673922083": {
 			"name": "Adagio",
-			"damageMultiplier": 1.25,
-			"chargeRateMultiplier": 1.2
+			"damageMultiplier": 1.30,
+			"chargeRateMultiplier": 1.20
 		},
 		"1771339417": {
 			"name": "Firing Line",
@@ -949,6 +893,14 @@
 		"2770223582": {
 			"name": "Fan Fire",
 			"critDamageMultiplier": 1.3079
+		},
+		"2896038713": {
+			"name": "Focused Fury",
+			"damageMultiplier": 1.2
+		},
+		"2652708987": {
+			"name": "Successful Warm-Up",
+			"rpmMultiplier": 1.375
 		}
 	}
 }
