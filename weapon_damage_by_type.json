@@ -172,14 +172,14 @@
 			},
 			"1636108362": {
 				"name": "Scout Rifle - Precision Frame",
-				"bodyDamage": 35.0,
-				"critDamage": 55.0,
+				"bodyDamage": 34.0,
+				"critDamage": 54.4,
 				"rpm": 180
 			},
 			"1019291327": {
 				"name": "Scout Rifle - High-Impact Frame",
-				"bodyDamage": 38.0,
-				"critDamage": 68.0,
+				"bodyDamage": 38.2,
+				"critDamage": 67.1,
 				"rpm": 150
 			}
 		},
@@ -245,29 +245,29 @@
 			},
 			"996573084": {
 				"name": "Shotgun - Rapid Fire",
-				"bodyDamage": 15.0,
-				"critDamage": 15.0,
+				"bodyDamage": 16.7,
+				"critDamage": 16.7,
 				"rpm": 139,
 				"shotsPerBurst": 12
 			},
 			"1458010786": {
 				"name": "Shotgun - Lightweight",
-				"bodyDamage": 18.5,
-				"critDamage": 18.5,
+				"bodyDamage": 18.3,
+				"critDamage": 18.3,
 				"rpm": 78,
 				"shotsPerBurst": 12
 			},
 			"895140517": {
 				"name": "Shotgun - Precision",
-				"bodyDamage": 19.5,
-				"critDamage": 19.5,
+				"bodyDamage": 19.1,
+				"critDamage": 19.1,
 				"rpm": 64,
 				"shotsPerBurst": 12
 			},
 			"3983457027": {
 				"name": "Shotgun - Aggressive",
-				"bodyDamage": 22.0,
-				"critDamage": 22.0,
+				"bodyDamage": 22.3,
+				"critDamage": 22.3,
 				"rpm": 55,
 				"shotsPerBurst": 12
 			},
@@ -321,26 +321,26 @@
 		"14": {
 			"806997698": {
 				"name": "Sidearm - SUROS Rapid-Fire",
-				"bodyDamage": 24.0,
-				"critDamage": 35.0,
+				"bodyDamage": 25.0,
+				"critDamage": 35.1,
 				"rpm": 450
 			},
 			"3449390870": {
 				"name": "Sidearm - Adaptive Frame",
-				"bodyDamage": 37.0,
-				"critDamage": 51.0,
+				"bodyDamage": 36.0,
+				"critDamage": 50.5,
 				"rpm": 300
 			},
 			"1636108362": {
 				"name": "Sidearm - Precision Frame",
-				"bodyDamage": 38.0,
-				"critDamage": 57.0,
+				"bodyDamage": 40.0,
+				"critDamage": 56.1,
 				"rpm": 257
 			},
 			"31057037": {
 				"name": "Sidearm - Omolon Adaptive Burst",
 				"bodyDamage": 20.0,
-				"critDamage": 32.1,
+				"critDamage": 32.0,
 				"rpm": 491,
 				"shotsPerBurst": 3,
 				"framesPerBurst": 10
@@ -348,7 +348,7 @@
 			"3330548924": {
 				"name": "Sidearm - Aggressive Burst",
 				"bodyDamage": 33.0,
-				"critDamage": 45.0,
+				"critDamage": 44.9,
 				"rpm": 325,
 				"shotsPerBurst": 3,
 				"framesPerBurst": 8
@@ -356,7 +356,7 @@
 			"1458010786": {
 				"name": "Sidearm - Lightweight Frame",
 				"bodyDamage": 31.0,
-				"critDamage": 45.0,
+				"critDamage": 43.5,
 				"rpm": 360
 			},
 			"2984682260": {
@@ -426,7 +426,7 @@
 			"3468089894": {
 				"name": "SMG - Aggressive Frame",
 				"bodyDamage": 15.0,
-				"critDamage": 22.0,
+				"critDamage": 21.6,
 				"rpm": 720
 			},
 			"1458010786" : {
@@ -443,13 +443,13 @@
 			},
 			"1294026524": {
 				"name": "SMG - Adaptive Frame",
-				"bodyDamage": 13.0,
-				"critDamage": 17.0,
+				"bodyDamage": 11.3,
+				"critDamage": 16.2,
 				"rpm": 900
 			},
 			"2540536653": {
 				"name": "SMG - Tarrabah",
-				"bodyDamage": 15.0,
+				"bodyDamage": 15.3,
 				"critDamage": 22.0,
 				"rpm": 720
 			},
@@ -461,9 +461,9 @@
 			},
 			"630329983": {
 				"name": "SMG - The Huckleberry",
-				"bodyDamage": 13.0,
-				"critDamage": 17.0,
-				"rpm": 900
+				"bodyDamage": 15.3,
+				"critDamage": 22.0,
+				"rpm": 720
 			}
 		},
 		"7": {
@@ -477,8 +477,8 @@
 			},
 			"1458010786": {
 				"name": "Pulse Rifle - Lightweight Frame",
-				"bodyDamage": 15.0,
-				"critDamage": 25.0,
+				"bodyDamage": 16.0,
+				"critDamage": 26.4,
 				"rpm": 450,
 				"shotsPerBurst": 3,
 				"framesPerBurst": 10
@@ -493,8 +493,8 @@
 			},
 			"1294026524": {
 				"name": "Pulse Rifle - Adaptive Frame",
-				"bodyDamage": 20.0,
-				"critDamage": 31.0,
+				"bodyDamage": 19.0,
+				"critDamage": 30.4,
 				"rpm": 390,
 				"shotsPerBurst": 3,
 				"framesPerBurst": 10
@@ -509,7 +509,7 @@
 			},
 			"2874284214": {
 				"name": "Pulse Rifle - Aggressive Frame",
-				"bodyDamage": 16.0,
+				"bodyDamage": 15.9,
 				"critDamage": 27.0,
 				"rpm": 450,
 				"shotsPerBurst": 4,
@@ -543,9 +543,9 @@
 		"9": {
 			"878286503": {
 				"name": "Fusion Rifle - Rapid Fire",
-				"bodyDamage": 29.4,
-				"critDamage": 29.4,
-				"chargeRate": 467,
+				"bodyDamage": 27.2,
+				"critDamage": 27.2,
+				"chargeRate": 500,
 				"shotsPerBurst": 7,
 				"framesPerBurst": 14,
 				"perkModifiers": {
@@ -575,7 +575,7 @@
 				"name": "Fusion Rifle - Aggressive",
 				"bodyDamage": 46.0,
 				"critDamage": 46.0,
-				"chargeRate": 667,
+				"chargeRate": 660,
 				"shotsPerBurst": 7,
 				"perkModifiers": {
 					"3673922083": {
@@ -589,7 +589,7 @@
 				"name": "Fusion Rifle - Precision",
 				"bodyDamage": 40.0,
 				"critDamage": 40.0,
-				"chargeRate": 733,
+				"chargeRate": 780,
 				"shotsPerBurst": 7,
 				"framesPerBurst": 14,
 				"perkModifiers": {
@@ -602,9 +602,9 @@
 			},
 			"1019291327": {
 				"name": "Fusion Rifle - High Impact",
-				"bodyDamage": 62.0,
-				"critDamage": 62.0,
-				"chargeRate": 1000,
+				"bodyDamage": 66.0,
+				"critDamage": 66.0,
+				"chargeRate": 960,
 				"shotsPerBurst": 7,
 				"framesPerBurst": 14,
 				"perkModifiers": {
@@ -638,8 +638,8 @@
 			},
 			"1927916065": {
 				"name": "Fusion Rifle - Telesto",
-				"bodyDamage": 27.0,
-				"critDamage": 27.0,
+				"bodyDamage": 40.0,
+				"critDamage": 40.0,
 				"chargeRate": 767,
 				"shotsPerBurst": 7,
 				"framesPerBurst": 14
