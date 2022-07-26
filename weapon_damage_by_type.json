@@ -31,7 +31,7 @@
 		"5": {
 			"1294026524" :{
 				"name": "Auto Rifle - Adaptive Frame",
-				"bodyDamage": 14.25,
+				"bodyDamage": 14.3,
 				"critDamage": 22.8,
 				"rpm": 600
 			},
@@ -43,8 +43,8 @@
 			},
 			"1636108362": {
 				"name": "Auto Rifle - Precision Frame",
-				"bodyDamage": 18.0,
-				"critDamage": 28.8,
+				"bodyDamage": 20.0,
+				"critDamage": 30.0,
 				"rpm": 450
 			},
 			"1019291327": {
@@ -70,8 +70,8 @@
 			},
 			"1322370662": {
 				"name": "Hand Cannon - Precision Frame",
-				"bodyDamage": 38.2,
-				"critDamage": 57.0,
+				"bodyDamage": 40.0,
+				"critDamage": 60.0,
 				"rpm": 180,
 				"perkModifiers": {
 					"3673922083": {
@@ -155,13 +155,13 @@
 			"3364911712": {
 				"name": "Scout Rifle - VEIST Rapid-Fire Frame",
 				"bodyDamage": 28.0,
-				"critDamage": 47.0,
+				"critDamage": 46.9,
 				"rpm": 257
 			},
 			"4185339856": {
 				"name": "Scout Rifle - Symmetry",
 				"bodyDamage": 28.0,
-				"critDamage": 47.0,
+				"critDamage": 46.9,
 				"rpm": 257
 			},
 			"1458010786": {
@@ -172,14 +172,14 @@
 			},
 			"1636108362": {
 				"name": "Scout Rifle - Precision Frame",
-				"bodyDamage": 34.0,
-				"critDamage": 54.4,
+				"bodyDamage": 38.0,
+				"critDamage": 60.8,
 				"rpm": 180
 			},
 			"1019291327": {
 				"name": "Scout Rifle - High-Impact Frame",
-				"bodyDamage": 38.2,
-				"critDamage": 67.1,
+				"bodyDamage": 42.0,
+				"critDamage": 73.5,
 				"rpm": 150
 			}
 		},
