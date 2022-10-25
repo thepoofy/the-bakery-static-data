@@ -331,6 +331,12 @@
 				"critDamage": 50.5,
 				"rpm": 300
 			},
+			"1282254042": {
+				"name": "Sidearm - Drang (Together Forever)",
+				"bodyDamage": 36.0,
+				"critDamage": 50.5,
+				"rpm": 300
+			},
 			"1636108362": {
 				"name": "Sidearm - Precision Frame",
 				"bodyDamage": 40.0,
@@ -429,8 +435,20 @@
 				"critDamage": 21.6,
 				"rpm": 720
 			},
+			"1525239159": {
+				"name": "SMG - Aggressive Frame (Crafted Default)",
+				"bodyDamage": 15.0,
+				"critDamage": 21.6,
+				"rpm": 720
+			},
 			"1458010786" : {
 				"name": "SMG - Lightweight Frame",
+				"bodyDamage": 10.9,
+				"critDamage": 17.9,
+				"rpm": 900
+			},
+			"2213377102" : {
+				"name": "SMG - Lightweight Frame (MIDA Synergy)",
 				"bodyDamage": 10.9,
 				"critDamage": 17.9,
 				"rpm": 900
