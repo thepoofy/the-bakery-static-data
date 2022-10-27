@@ -65,6 +65,10 @@
 						"name": "Adagio",
 						"damageMultiplier": 1.30,
 						"chargeRateMultiplier": 1.15
+					},
+					"1365187766": {
+						"name": "Gutshot Straight",
+						"bodyDamageMultiplier": 1.2
 					}
 				}
 			},
@@ -78,6 +82,10 @@
 						"name": "Adagio",
 						"damageMultiplier": 1.30,
 						"chargeRateMultiplier": 1.15
+					},
+					"1365187766": {
+						"name": "Gutshot Straight",
+						"bodyDamageMultiplier": 1.2
 					}
 				}
 			},
@@ -91,6 +99,10 @@
 						"name": "Adagio",
 						"damageMultiplier": 1.30,
 						"chargeRateMultiplier": 1.15
+					},
+					"1365187766": {
+						"name": "Gutshot Straight",
+						"bodyDamageMultiplier": 1.2
 					}
 				}
 			},
@@ -713,6 +725,10 @@
 						"name": "Adagio",
 						"damageMultiplier": 1.20,
 						"chargeRateMultiplier": 1.20
+					},
+					"1365187766": {
+						"name": "Gutshot Straight",
+						"bodyDamageMultiplier": 1.2
 					}
 				}
 			},
@@ -726,6 +742,10 @@
 						"name": "Adagio",
 						"damageMultiplier": 1.20,
 						"chargeRateMultiplier": 1.20
+					},
+					"1365187766": {
+						"name": "Gutshot Straight",
+						"bodyDamageMultiplier": 1.2
 					}
 				}
 			},
@@ -919,6 +939,10 @@
 		"2652708987": {
 			"name": "Successful Warm-Up",
 			"rpmMultiplier": 1.375
+		},
+		"1365187766": {
+			"name": "Gutshot Straight",
+			"bodyDamageMultiplier": 1.1
 		}
 	}
 }
