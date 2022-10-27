@@ -943,6 +943,10 @@
 		"1365187766": {
 			"name": "Gutshot Straight",
 			"bodyDamageMultiplier": 1.1
+		},
+		"557221067": {
+			"name": "Killing Tally",
+			"stackingDamageMultipliers": [1.05, 1.1, 1.15]
 		}
 	}
 }
