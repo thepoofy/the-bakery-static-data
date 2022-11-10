@@ -24,3 +24,10 @@ https://docs.google.com/spreadsheets/d/1WaxvbLx7UoSZaBqdFr1u32F2uWVLo-CJunJB4nlG
 
 Not for external use.
 The value in this file is incremented when source data in this repository has been updated and verified to work with [The Bakery](https://bread.report).
+
+
+### Deprecated
+
+`sandbox_perk_info.json`, `perk_details.json` used to provide descriptions of perks.  This is being replaced by [Clarity](https://d2clarity.com).
+
+`weapon_reviews.json`:  Replaced by `item_reviews.json`.
