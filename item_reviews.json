@@ -1319,17 +1319,19 @@
       ]
     },
     {
-      "itemHash": "2985024932",
+      "itemHash": "2185327324",
       "name": "The Inquisitor",
       "reviews": [
-        "zKUlWSwwrG4"
+        "zKUlWSwwrG4",
+        "SBT_uGSca3k"
       ]
     },
     {
-      "itemHash": "3617776861",
+      "itemHash": "2307365",
       "name": "The Inquisitor (Adept)",
       "reviews": [
-        "zKUlWSwwrG4"
+        "zKUlWSwwrG4",
+        "SBT_uGSca3k"
       ]
     },
     {
@@ -1432,20 +1434,6 @@
       "name": "Burden of Guilt (Adept)",
       "reviews": [
         "aSKFsA2OpUI"
-      ]
-    },
-    {
-      "itemHash": "2185327324",
-      "name": "Inquisitor",
-      "reviews": [
-        "SBT_uGSca3k"
-      ]
-    },
-    {
-      "itemHash": "2307365",
-      "name": "Inquisitor (Adept)",
-      "reviews": [
-        "SBT_uGSca3k"
       ]
     },
     {
