@@ -198,6 +198,12 @@
 				"critDamage": 54.1,
 				"rpm": 200
 			},
+			"377257911": {
+				"name": "Scout Rifle - Mida Multi-tool",
+				"bodyDamage": 31.0,
+				"critDamage": 54.1,
+				"rpm": 200
+			},
 			"1636108362": {
 				"name": "Scout Rifle - Precision Frame",
 				"bodyDamage": 38.0,
@@ -209,6 +215,12 @@
 				"bodyDamage": 40.0,
 				"critDamage": 70.0,
 				"rpm": 150
+			},
+			"1319823571": {
+				"name": "Scout Rifle - Dead Man's Tale",
+				"bodyDamage": 46.0,
+				"critDamage": 80.3,
+				"rpm": 120
 			}
 		},
 		"10": {
@@ -353,10 +365,22 @@
 				"critDamage": 35.1,
 				"rpm": 450
 			},
-			"3449390870": {
-				"name": "Sidearm - Adaptive Frame",
-				"bodyDamage": 36.0,
-				"critDamage": 50.5,
+			"1294026524": {
+				"name": "Sidearm - Adaptive Frame (single fire)",
+				"bodyDamage": 37.0,
+				"critDamage": 51.0,
+				"rpm": 300
+			},
+			"2121086290": {
+				"name": "Sidearm - Rat King",
+				"bodyDamage": 37.0,
+				"critDamage": 51.0,
+				"rpm": 300
+			},
+			"975429949": {
+				"name": "Sidearm - Traveler's Chosen",
+				"bodyDamage": 37.0,
+				"critDamage": 51.0,
 				"rpm": 300
 			},
 			"1282254042": {
@@ -373,6 +397,22 @@
 			},
 			"31057037": {
 				"name": "Sidearm - Omolon Adaptive Burst",
+				"bodyDamage": 20.0,
+				"critDamage": 32.0,
+				"rpm": 491,
+				"shotsPerBurst": 3,
+				"framesPerBurst": 10
+			},
+			"3449390870": {
+				"name": "Sidearm - Adaptive Burst",
+				"bodyDamage": 20.0,
+				"critDamage": 32.0,
+				"rpm": 491,
+				"shotsPerBurst": 3,
+				"framesPerBurst": 10
+			},
+			"2641107734": {
+				"name": "Sidearm - Trespasser",
 				"bodyDamage": 20.0,
 				"critDamage": 32.0,
 				"rpm": 491,
@@ -410,12 +450,6 @@
 				"bodyDamage": 38.0,
 				"critDamage": 57.0,
 				"rpm": 257
-			},
-			"2121086290": {
-				"name": "Sidearm - Rat King",
-				"bodyDamage": 37.0,
-				"critDamage": 51.0,
-				"rpm": 300
 			}
 		},
 		"2489664120": {
@@ -545,8 +579,24 @@
 				"shotsPerBurst": 3,
 				"framesPerBurst": 10
 			},
+			"3441203855": {
+				"name": "Pulse Rifle - Collective Obligation",
+				"bodyDamage": 19.0,
+				"critDamage": 31.4,
+				"rpm": 390,
+				"shotsPerBurst": 3,
+				"framesPerBurst": 10
+			},
 			"1019291327": {
 				"name": "Pulse Rifle - High-Impact Frame",
+				"bodyDamage": 22.0,
+				"critDamage": 35.2,
+				"rpm": 360,
+				"shotsPerBurst": 3,
+				"framesPerBurst": 10
+			},
+			"3837077246": {
+				"name": "Pulse Rifle - No Time To Explain",
 				"bodyDamage": 22.0,
 				"critDamage": 35.2,
 				"rpm": 360,
@@ -560,6 +610,22 @@
 				"rpm": 450,
 				"shotsPerBurst": 4,
 				"framesPerBurst": 14
+			},
+			"4208418110": {
+				"name": "Pulse Rifle - Outbreak Perfected",
+				"bodyDamage": 16.0,
+				"critDamage": 26.4,
+				"rpm": 450,
+				"shotsPerBurst": 3,
+				"framesPerBurst": 10
+			},
+			"4004944400": {
+				"name": "Pulse Rifle - Bad Juju",
+				"bodyDamage": 16.0,
+				"critDamage": 26.4,
+				"rpm": 450,
+				"shotsPerBurst": 3,
+				"framesPerBurst": 10
 			},
 			"2307143135": {
 				"name": "Pulse Rifle - Vigilance Wing",
@@ -576,14 +642,6 @@
 				"rpm": 257,
 				"shotsPerBurst": 2,
 				"framesPerBurst": 6
-			},
-			"3837077246": {
-				"name": "Pulse Rifle - No Time To Explain",
-				"bodyDamage": 22.0,
-				"critDamage": 35.2,
-				"rpm": 360,
-				"shotsPerBurst": 3,
-				"framesPerBurst": 10
 			}
 		},
 		"9": {
@@ -963,6 +1021,10 @@
 		"557221067": {
 			"name": "Killing Tally",
 			"stackingDamageMultipliers": [1.05, 1.1, 1.15]
+		},
+		"3081867624": {
+			"name": "Master of Arms",
+			"damageMultiplier": 1.2
 		}
 	}
 }
