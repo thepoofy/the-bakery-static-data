@@ -194,14 +194,14 @@
 			},
 			"1458010786": {
 				"name": "Scout Rifle - Lightweight Frame",
-				"bodyDamage": 31.0,
-				"critDamage": 54.1,
+				"bodyDamage": 30.5,
+				"critDamage": 53.5,
 				"rpm": 200
 			},
 			"377257911": {
 				"name": "Scout Rifle - Mida Multi-tool",
-				"bodyDamage": 31.0,
-				"critDamage": 54.1,
+				"bodyDamage": 30.5,
+				"critDamage": 53.5,
 				"rpm": 200
 			},
 			"1636108362": {
@@ -367,20 +367,20 @@
 			},
 			"1294026524": {
 				"name": "Sidearm - Adaptive Frame (single fire)",
-				"bodyDamage": 37.0,
-				"critDamage": 51.0,
+				"bodyDamage": 36.0,
+				"critDamage": 50.5,
 				"rpm": 300
 			},
 			"2121086290": {
 				"name": "Sidearm - Rat King",
-				"bodyDamage": 37.0,
-				"critDamage": 51.0,
+				"bodyDamage": 36.0,
+				"critDamage": 50.5,
 				"rpm": 300
 			},
 			"975429949": {
 				"name": "Sidearm - Traveler's Chosen",
-				"bodyDamage": 37.0,
-				"critDamage": 51.0,
+				"bodyDamage": 36.0,
+				"critDamage": 50.5,
 				"rpm": 300
 			},
 			"1282254042": {
