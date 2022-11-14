@@ -424,7 +424,7 @@
 				"bodyDamage": 32.0,
 				"critDamage": 44.9,
 				"rpm": 325,
-				"shotsPerBurst": 3,
+				"shotsPerBurst": 2,
 				"framesPerBurst": 8
 			},
 			"1458010786": {
