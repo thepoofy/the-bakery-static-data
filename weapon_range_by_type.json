@@ -1,0 +1,81 @@
+{
+  "rangeByWeaponTypeMap": {
+    "5": {
+      "name": "AutoRifles all",
+      "vpp": 0.0963,
+      "baseRange": 11.8700
+    },
+    "6": {
+      "name": "Hand Cannon Default",
+      "vpp": 0.0864,
+      "baseRange": 16.9600,
+      "2757685314": {
+        "name": "Hand Cannon - Aggressive Frame",
+        "vpp": 0.0900,
+        "baseRange": 20.0000
+      },
+      "3923638944": {
+        "name": "Hand Cannon - Double Fire Frame",
+        "vpp": 0.0900,
+        "baseRange": 20.0000
+      }
+    },
+    "8": {
+      "name": "Scout Rifles all",
+      "vpp": 0.1521,
+      "baseRange": 30.8900
+    },
+    "10": {
+      "name": "Sniper Rifles all",
+      "vpp": null,
+      "baseRange": null
+    },
+    "11": {
+      "name": "Shotguns all",
+      "vpp": 0.0360,
+      "baseRange": 3.4000
+    },
+    "12": {
+      "name": "LMG all",
+      "vpp": null,
+      "baseRange": null
+    },
+    "14": {
+      "name": "Sidearms all",
+      "vpp": 0.0306,
+      "baseRange": 11.9400
+    },
+    "2489664120": {
+      "name": "Trace Rifles all",
+      "vpp": 0.0900,
+      "baseRange": 16.0000
+    },
+    "3954685534": {
+      "name": "SMGs all",
+      "vpp": 0.0891,
+      "baseRange": 8.8300
+    },
+    "7": {
+      "name": "Pulse Rifles all",
+      "vpp": 0.0770,
+      "baseRange": 16.8000
+    },
+    "9": {
+      "name": "Fusion Rifles all",
+      "vpp": 0.0324,
+      "baseRange": 10.5600
+    },
+    "1504945536": {
+      "name": "LFR all",
+      "vpp": null,
+      "baseRange": null
+    },
+    "3317538576": {
+      "name": "Bows all",
+      "vpp": null,
+      "baseRange": null
+    }
+  },
+  "rangeModifierByPerkMap": {
+  }
+}
