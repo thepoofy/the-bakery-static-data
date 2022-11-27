@@ -853,25 +853,19 @@
 				"name": "Grenade Launchers - Lightweight Frame",
 				"bodyDamage": 202.0,
 				"critDamage": 202.0,
-				"rpm": 1
+				"rpm": 27.2
 			},
 			"1219897208": {
 				"name": "Grenade Launchers - Wave Frame (Crafted)",
 				"bodyDamage": 131.0,
 				"critDamage": 131.0,
-				"rpm": 1
+				"rpm": 27.2
 			},
 			"1395789926": {
 				"name": "Grenade Launchers - Wave Frame",
 				"bodyDamage": 131.0,
 				"critDamage": 131.0,
-				"rpm": 1
-			},
-			"1294026524": {
-				"name": "Grenade Launchers - Adaptive Frame",
-				"bodyDamage": 1.0,
-				"critDamage": 1.0,
-				"rpm": 1
+				"rpm": 27.2
 			}
 		},
 		"13": {
