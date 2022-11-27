@@ -31,6 +31,10 @@
 	],
 	"globalDebuffs": [
 		{
+			"name": "Void Weaken",
+			"damageMultiplier": 1.075
+		},
+		{
 			"name": "Felwinter's Helm",
 			"damageMultiplier": 1.35
 		},
