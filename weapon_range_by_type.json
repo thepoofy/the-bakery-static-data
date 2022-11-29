@@ -33,25 +33,11 @@
         "baseRange": 30.8900
       }
     },
-    "10": {
-      "range": {
-        "name": "Sniper Rifles all",
-        "vpp": null,
-        "baseRange": null
-      }
-    },
     "11": {
       "range": {
         "name": "Shotguns all",
         "vpp": 0.0360,
         "baseRange": 3.4000
-      }
-    },
-    "12": {
-      "range": {
-        "name": "LMG all",
-        "vpp": null,
-        "baseRange": null
       }
     },
     "14": {
@@ -87,20 +73,6 @@
         "name": "Fusion Rifles all",
         "vpp": 0.0324,
         "baseRange": 10.5600
-      }
-    },
-    "1504945536": {
-      "range": {
-        "name": "LFR all",
-        "vpp": null,
-        "baseRange": null
-      }
-    },
-    "3317538576": {
-      "range": {
-        "name": "Bows all",
-        "vpp": null,
-        "baseRange": null
       }
     }
   }
