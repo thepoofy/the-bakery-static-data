@@ -75,5 +75,82 @@
         "baseRange": 10.5600
       }
     }
+  },
+  "rangeModifiersMap": {
+    "2846385770": [
+      {
+        "name": "Rangefinder",
+        "isADS": true,
+        "isConditional": false,
+        "scalar": 1.1,
+        "buff": 0
+      }
+    ],
+    "47981717": [
+      {
+        "name": "Opening Shot",
+        "isADS": true,
+        "isConditional": true,
+        "scalar": 1.0,
+        "buff": 25
+      }
+    ],
+    "2450788523": [
+      {
+        "name": "Killing Wind",
+        "isADS": true,
+        "isConditional": true,
+        "scalar": 1.05,
+        "buff": 20
+      },
+      {
+        "name": "Killing Wind",
+        "isADS": false,
+        "isConditional": true,
+        "scalar": 1.05,
+        "buff": 20
+      }
+    ],
+    "3161816588": [
+      {
+        "name": "Slideshot",
+        "isADS": true,
+        "isConditional": true,
+        "scalar": 1.0,
+        "buff": 20
+      },
+      {
+        "name": "Slideshot",
+        "isADS": false,
+        "isConditional": true,
+        "scalar": 1.0,
+        "buff": 20
+      }
+    ],
+    "1866048759": [
+      {
+        "name": "Hip-Fire Grip",
+        "isADS": false,
+        "isConditional": false,
+        "scalar": 1.2,
+        "buff": 0
+      }
+    ],
+    "1583705720": [
+      {
+        "name": "Stats for All",
+        "isADS": true,
+        "isConditional": true,
+        "scalar": 1.05,
+        "buff": 10
+      },
+      {
+        "name": "Stats for All",
+        "isADS": false,
+        "isConditional": true,
+        "scalar": 1.05,
+        "buff": 10
+      }
+    ]
   }
 }
