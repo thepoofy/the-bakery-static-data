@@ -31,6 +31,10 @@
 	],
 	"globalDebuffs": [
 		{
+			"name": "Void Weaken",
+			"damageMultiplier": 1.075
+		},
+		{
 			"name": "Felwinter's Helm",
 			"damageMultiplier": 1.35
 		},
@@ -845,11 +849,23 @@
 			}
 		},
 		"153950757": {
-			"1294026524": {
-				"name": "Grenade Launchers - Adaptive Frame",
-				"bodyDamage": 1.0,
-				"critDamage": 1.0,
-				"rpm": 1
+			"474269988": {
+				"name": "Grenade Launchers - Lightweight Frame",
+				"bodyDamage": 202.0,
+				"critDamage": 202.0,
+				"rpm": 27
+			},
+			"1219897208": {
+				"name": "Grenade Launchers - Wave Frame (Crafted)",
+				"bodyDamage": 131.0,
+				"critDamage": 131.0,
+				"rpm": 27
+			},
+			"1395789926": {
+				"name": "Grenade Launchers - Wave Frame",
+				"bodyDamage": 131.0,
+				"critDamage": 131.0,
+				"rpm": 27
 			}
 		},
 		"13": {
@@ -1025,6 +1041,18 @@
 		"3081867624": {
 			"name": "Master of Arms",
 			"damageMultiplier": 1.2
+		},
+		"3032599245": {
+			"name": "Blinding Grenades",
+			"damageMultiplier": 0.7525
+		},
+		"409831596": {
+			"name": "Proximity Grenades",
+			"damageMultiplier": 0.7426
+		},
+		"3301904089": {
+			"name": "Spike Grenades",
+			"damageMultiplier": 1.094
 		}
 	}
 }
