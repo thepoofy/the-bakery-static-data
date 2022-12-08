@@ -11,7 +11,7 @@ https://docs.google.com/spreadsheets/d/1Cl6P1Ak2GVrAmjZvhcrOiikR1dXqBvzeo1Mh4mYM
 
 ### Mapping of Weapon Archetypes to PvP damage
 
-See `weapon_damage_by_type.json`
+See `weapon_damage_by_type.json`.
 Data is still compiled by hand.
 
 Base weapon damage is collected from the `Massive Breakdown` spreadsheet:
@@ -19,6 +19,14 @@ https://docs.google.com/spreadsheets/d/1_6zsM7kzvg0aUT8YtM_-Wg_5K1gKDOlrwfVzutEj
 
 Weapon perk effects are collected from `The Destiny Data Compendium` spreadsheet:
 https://docs.google.com/spreadsheets/d/1WaxvbLx7UoSZaBqdFr1u32F2uWVLo-CJunJB4nlGUE4/edit#gid=1662574278
+
+
+### Mapping of Weapon Archetypes to Range 
+
+See `weapon_range_by_type.json`.
+Data is still compiled by hand.
+
+Values are [defined and used as defined here.](https://docs.google.com/spreadsheets/d/1SR7cVCxkZdKA0GvSVbKcWn17KEv71bKXLXA_jt3fOIU/edit#gid=0)
 
 ### Bootstrap.json
 
