@@ -95,7 +95,7 @@
         "buff": 25
       }
     ],
-    "47981717": [
+    "1370847713": [
       {
         "name": "Enhanced Opening Shot",
         "isADS": true,
@@ -161,7 +161,23 @@
         "buff": 10
       }
     ],
-    "1175315359": [
+    "1409206216": [
+      {
+        "name": "Stats for All (Enhanced)",
+        "isADS": true,
+        "isConditional": true,
+        "scalar": 1.05,
+        "buff": 10
+      },
+      {
+        "name": "Stats for All (Enhanced)",
+        "isADS": false,
+        "isConditional": true,
+        "scalar": 1.05,
+        "buff": 10
+      }
+    ],
+    "2416023159": [
       {
         "name": "Offhand Strike",
         "isADS": false,
@@ -170,7 +186,16 @@
         "buff": 0
       }
     ],
-    "1167548551": [
+    "3050799639": [
+      {
+        "name": "Offhand Strike (Enhanced)",
+        "isADS": false,
+        "isConditional": true,
+        "scalar": 1.45,
+        "buff": 0
+      }
+    ],
+    "2451262963": [
       {
         "name": "Fragile Focus",
         "isADS": true,
@@ -186,7 +211,23 @@
         "buff": 20
       }
     ],
-    "4161687735": [
+    "1609056795": [
+      {
+        "name": "Fragile Focus (Enhanced)",
+        "isADS": true,
+        "isConditional": true,
+        "scalar": 1.0,
+        "buff": 20
+      },
+      {
+        "name": "Fragile Focus (Enhanced)",
+        "isADS": false,
+        "isConditional": true,
+        "scalar": 1.0,
+        "buff": 20
+      }
+    ],
+    "3907865655": [
       {
         "name": "Right Hook",
         "isADS": true,
@@ -202,7 +243,7 @@
         "buff": 20
       }
     ],
-    "3875186819": [
+    "2988596335": [
       {
         "name": "Alacrity",
         "isADS": true,
