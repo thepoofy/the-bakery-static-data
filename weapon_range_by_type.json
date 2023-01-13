@@ -95,6 +95,15 @@
         "buff": 25
       }
     ],
+    "1370847713": [
+      {
+        "name": "Enhanced Opening Shot",
+        "isADS": true,
+        "isConditional": true,
+        "scalar": 1.0,
+        "buff": 20
+      }
+    ],
     "2450788523": [
       {
         "name": "Killing Wind",
@@ -149,6 +158,104 @@
         "isADS": false,
         "isConditional": true,
         "scalar": 1.05,
+        "buff": 10
+      }
+    ],
+    "1409206216": [
+      {
+        "name": "Stats for All (Enhanced)",
+        "isADS": true,
+        "isConditional": true,
+        "scalar": 1.05,
+        "buff": 10
+      },
+      {
+        "name": "Stats for All (Enhanced)",
+        "isADS": false,
+        "isConditional": true,
+        "scalar": 1.05,
+        "buff": 10
+      }
+    ],
+    "2416023159": [
+      {
+        "name": "Offhand Strike",
+        "isADS": false,
+        "isConditional": true,
+        "scalar": 1.45,
+        "buff": 0
+      }
+    ],
+    "3050799639": [
+      {
+        "name": "Offhand Strike (Enhanced)",
+        "isADS": false,
+        "isConditional": true,
+        "scalar": 1.45,
+        "buff": 0
+      }
+    ],
+    "2451262963": [
+      {
+        "name": "Fragile Focus",
+        "isADS": true,
+        "isConditional": true,
+        "scalar": 1.0,
+        "buff": 20
+      },
+      {
+        "name": "Fragile Focus",
+        "isADS": false,
+        "isConditional": true,
+        "scalar": 1.0,
+        "buff": 20
+      }
+    ],
+    "1609056795": [
+      {
+        "name": "Fragile Focus (Enhanced)",
+        "isADS": true,
+        "isConditional": true,
+        "scalar": 1.0,
+        "buff": 20
+      },
+      {
+        "name": "Fragile Focus (Enhanced)",
+        "isADS": false,
+        "isConditional": true,
+        "scalar": 1.0,
+        "buff": 20
+      }
+    ],
+    "3907865655": [
+      {
+        "name": "Right Hook",
+        "isADS": true,
+        "isConditional": true,
+        "scalar": 1.0,
+        "buff": 20
+      },
+      {
+        "name": "Right Hook",
+        "isADS": false,
+        "isConditional": true,
+        "scalar": 1.0,
+        "buff": 20
+      }
+    ],
+    "2988596335": [
+      {
+        "name": "Alacrity",
+        "isADS": true,
+        "isConditional": true,
+        "scalar": 1.0,
+        "buff": 10
+      },
+      {
+        "name": "Alacrity",
+        "isADS": false,
+        "isConditional": true,
+        "scalar": 1.0,
         "buff": 10
       }
     ]

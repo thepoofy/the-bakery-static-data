@@ -112,6 +112,23 @@
 					}
 				}
 			},
+			"1458010786": {
+				"name": "Hand Cannon - Lightweight Adaptive",
+				"bodyDamage": 46.5,
+				"critDamage": 69.8,
+				"rpm": 139,
+				"perkModifiers": {
+					"3673922083": {
+						"name": "Adagio",
+						"damageMultiplier": 1.30,
+						"chargeRateMultiplier": 1.15
+					},
+					"1365187766": {
+						"name": "Gutshot Straight",
+						"bodyDamageMultiplier": 1.2
+					}
+				}
+			},
 			"1322370662": {
 				"name": "Hand Cannon - Precision Frame",
 				"bodyDamage": 40.0,
@@ -195,6 +212,12 @@
 				"bodyDamage": 46.5,
 				"critDamage": 69.8,
 				"rpm": 139
+			},
+			"2144092201": {
+				"name": "Hand Cannon - Lumina",
+				"bodyDamage": 46.5,
+				"critDamage": 69.8,
+				"rpm": 139
 			}
 		},
 		"8": {
@@ -274,6 +297,12 @@
 						"isInstantlyConsumed": true
 					}
 				}
+			},
+			"3468089894": {
+				"name": "Scout Rifle - Aggressive Frame",
+				"bodyDamage": 54.0,
+				"critDamage": 80.0,
+				"rpm": 120
 			},
 			"1319823571": {
 				"name": "Scout Rifle - Dead Man's Tale",
@@ -609,6 +638,12 @@
 				"bodyDamage": 15.3,
 				"critDamage": 22.0,
 				"rpm": 720
+			},
+			"1219897208": {
+				"name": "SMG - Osteo Striga (crafted)",
+				"bodyDamage": 17.0,
+				"critDamage": 23.8,
+				"rpm": 600
 			}
 		},
 		"7": {
@@ -969,7 +1004,7 @@
 		},
 		"3708227201": {
 			"name": "Surrounded",
-			"damageMultiplier": 1.4
+			"damageMultiplier": 1.365
 		},
 		"781192741": {
 			"name": "Enhanced Surrounded",
