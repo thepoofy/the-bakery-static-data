@@ -80,14 +80,14 @@
     "2846385770": [
       {
         "name": "Rangefinder",
-        "isADS": true,
+        "fireMode": "ADS",
         "scalars": [1.1]
       }
     ],
     "47981717": [
       {
         "name": "Opening Shot",
-        "isADS": true,
+        "fireMode": "ADS",
         "isConditional": true,
         "buffs": [25]
       }
@@ -95,7 +95,7 @@
     "1370847713": [
       {
         "name": "Enhanced Opening Shot",
-        "isADS": true,
+        "fireMode": "ADS",
         "isConditional": true,
         "buffs": [20]
       }
@@ -118,7 +118,7 @@
     "1866048759": [
       {
         "name": "Hip-Fire Grip",
-        "isADS": false,
+        "fireMode": "HIP_FIRE",
         "scalars": [1.2]
       }
     ],
@@ -141,7 +141,7 @@
     "2416023159": [
       {
         "name": "Offhand Strike",
-        "isADS": false,
+        "fireMode": "HIP_FIRE",
         "isConditional": true,
         "scalars": [1.45]
       }
@@ -149,7 +149,7 @@
     "3050799639": [
       {
         "name": "Offhand Strike (Enhanced)",
-        "isADS": false,
+        "fireMode": "HIP_FIRE",
         "isConditional": true,
         "scalars": [1.45]
       }
