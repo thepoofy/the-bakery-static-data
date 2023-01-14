@@ -1,0 +1,186 @@
+{
+  "rangeByWeaponTypeMap": {
+    "5": {
+      "range": {
+        "name": "AutoRifles all",
+        "vpp": 0.0963,
+        "baseRange": 11.8700
+      }
+    },
+    "6": {
+      "range": {
+        "name": "Hand Cannon Default",
+        "vpp": 0.0864,
+        "baseRange": 16.9600
+      },
+      "customizations" : {
+        "2757685314": {
+          "name": "Hand Cannon - Aggressive Frame",
+          "vpp": 0.0900,
+          "baseRange": 20.0000
+        },
+        "3923638944": {
+          "name": "Hand Cannon - Double Fire Frame",
+          "vpp": 0.0900,
+          "baseRange": 20.0000
+        }
+      }
+    },
+    "8": {
+      "range": {
+        "name": "Scout Rifles all",
+        "vpp": 0.1521,
+        "baseRange": 30.8900
+      }
+    },
+    "11": {
+      "range": {
+        "name": "Shotguns all",
+        "vpp": 0.0360,
+        "baseRange": 3.4000
+      }
+    },
+    "14": {
+      "range": {
+        "name": "Sidearms all",
+        "vpp": 0.0306,
+        "baseRange": 11.9400
+      }
+    },
+    "2489664120": {
+      "range": {
+        "name": "Trace Rifles all",
+        "vpp": 0.0900,
+        "baseRange": 16.0000
+      }
+    },
+    "3954685534": {
+      "range": {
+        "name": "SMGs all",
+        "vpp": 0.0891,
+        "baseRange": 8.8300
+      }
+    },
+    "7": {
+      "range": {
+        "name": "Pulse Rifles all",
+        "vpp": 0.0770,
+        "baseRange": 16.8000
+      }
+    },
+    "9": {
+      "range": {
+        "name": "Fusion Rifles all",
+        "vpp": 0.0324,
+        "baseRange": 10.5600
+      }
+    }
+  },
+  "rangeModifiersMap": {
+    "2846385770": [
+      {
+        "name": "Rangefinder",
+        "isADS": true,
+        "scalars": [1.1]
+      }
+    ],
+    "47981717": [
+      {
+        "name": "Opening Shot",
+        "isADS": true,
+        "isConditional": true,
+        "buffs": [25]
+      }
+    ],
+    "1370847713": [
+      {
+        "name": "Enhanced Opening Shot",
+        "isADS": true,
+        "isConditional": true,
+        "buffs": [20]
+      }
+    ],
+    "2450788523": [
+      {
+        "name": "Killing Wind",
+        "isConditional": true,
+        "scalars": [1.05],
+        "buffs": [20]
+      }
+    ],
+    "3161816588": [
+      {
+        "name": "Slideshot",
+        "isConditional": true,
+        "buffs": [20]
+      }
+    ],
+    "1866048759": [
+      {
+        "name": "Hip-Fire Grip",
+        "isADS": false,
+        "scalars": [1.2]
+      }
+    ],
+    "1583705720": [
+      {
+        "name": "Stats for All",
+        "isConditional": true,
+        "scalars": [1.05],
+        "buffs": [10]
+      }
+    ],
+    "1409206216": [
+      {
+        "name": "Stats for All (Enhanced)",
+        "isConditional": true,
+        "scalars": [1.05],
+        "buffs": [10]
+      }
+    ],
+    "2416023159": [
+      {
+        "name": "Offhand Strike",
+        "isADS": false,
+        "isConditional": true,
+        "scalars": [1.45]
+      }
+    ],
+    "3050799639": [
+      {
+        "name": "Offhand Strike (Enhanced)",
+        "isADS": false,
+        "isConditional": true,
+        "scalars": [1.45]
+      }
+    ],
+    "2451262963": [
+      {
+        "name": "Fragile Focus",
+        "isConditional": true,
+        "buffs": [20]
+      }
+    ],
+    "1609056795": [
+      {
+        "name": "Fragile Focus (Enhanced)",
+        "isConditional": true,
+        "buffs": [20]
+      }
+    ],
+    "3907865655": [
+      {
+        "name": "Right Hook",
+        "isConditional": true,
+        "buffs": [20]
+      }
+    ],
+    "2988596335": [
+      {
+        "name": "Alacrity",
+        "isConditional": true,
+        "buffs": [10]
+      }
+    ]
+  }
+}
