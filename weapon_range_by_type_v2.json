@@ -179,6 +179,34 @@
         "isConditional": true,
         "buffs": [10]
       }
+    ],
+    "1195158366": [
+      {
+        "name": "Encore",
+        "isConditional": true,
+        "buffs": [5, 10, 15, 20]
+      }
+    ],
+    "838873202": [
+      {
+        "name": "Encore (Enhanced)",
+        "isConditional": true,
+        "buffs": [5, 10, 15, 20]
+      }
+    ],
+    "744594675": [
+      {
+        "name": "Well Rounded",
+        "isConditional": true,
+        "buffs": [10, 20]
+      }
+    ],
+    "2139363611": [
+      {
+        "name": "Well Rounded (Enhanced)",
+        "isConditional": true,
+        "buffs": [10, 20]
+      }
     ]
   }
 }
