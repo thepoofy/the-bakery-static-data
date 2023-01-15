@@ -1610,7 +1610,9 @@
       "name": "Ikelos SMG 1.0.3",
       "reviews": [
         "DcD0ZZqwh7w",
-        "zD9oa1baiE0"
+        "zD9oa1baiE0",
+        "gny2RNLUoXI",
+        "va4aR82IfA0"
       ]
     },
     {
@@ -1625,7 +1627,8 @@
       "name": "Lodbrok-C",
       "reviews": [
         "ZUYK8pqWOnA",
-        "H5nzfJw25JU"
+        "H5nzfJw25JU",
+        "Atkb0YeYu4k"
       ]
     },
     {
@@ -1734,13 +1737,6 @@
       ]
     },
     {
-      "itemHash": "2149683300",
-      "name": "Ikelos_SMG_v1.0.3",
-      "reviews": [
-        "gny2RNLUoXI"
-      ]
-    },
-    {
       "itemHash": "346136302",
       "name": "Retold Tale",
       "reviews": [
@@ -1811,6 +1807,20 @@
       "name": "Wendigo (Adept)",
       "reviews": [
         "URAvdChARyk"
+      ]
+    },
+    {
+      "itemHash": "3141979347",
+      "name": "Borealis",
+      "reviews": [
+        "nB8EvYw4SJo"
+      ]
+    },
+    {
+      "itemHash": "1851521408",
+      "name": "Jararaca-3SR",
+      "reviews": [
+        "Sicx1JMmb_U"
       ]
     }
   ]
