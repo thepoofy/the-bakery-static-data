@@ -93,12 +93,26 @@
         "isConditional": true,
         "scalar": 1.0,
         "buff": 25
+      },
+      {
+        "name": "Opening Shot",
+        "isADS": false,
+        "isConditional": true,
+        "scalar": 1.0,
+        "buff": 25
       }
     ],
     "1370847713": [
       {
         "name": "Enhanced Opening Shot",
         "isADS": true,
+        "isConditional": true,
+        "scalar": 1.0,
+        "buff": 30
+      },
+      {
+        "name": "Enhanced Opening Shot",
+        "isADS": false,
         "isConditional": true,
         "scalar": 1.0,
         "buff": 30
