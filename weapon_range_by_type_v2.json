@@ -87,7 +87,6 @@
     "47981717": [
       {
         "name": "Opening Shot",
-        "fireMode": "ADS",
         "isConditional": true,
         "buffs": [25]
       }
@@ -95,9 +94,8 @@
     "1370847713": [
       {
         "name": "Enhanced Opening Shot",
-        "fireMode": "ADS",
         "isConditional": true,
-        "buffs": [20]
+        "buffs": [30]
       }
     ],
     "2450788523": [
