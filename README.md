@@ -11,7 +11,7 @@ https://docs.google.com/spreadsheets/d/1Cl6P1Ak2GVrAmjZvhcrOiikR1dXqBvzeo1Mh4mYM
 
 ### Mapping of Weapon Archetypes to PvP damage
 
-See `weapon_damage_by_type.json`
+See `weapon_damage_by_type.json`.
 Data is still compiled by hand.
 
 Base weapon damage is collected from the `Massive Breakdown` spreadsheet:
@@ -28,7 +28,7 @@ See `weapon_range_by_type_v2.json`
 Weapon range calculator based upon base data and formulas from this spreadsheet:
 https://docs.google.com/spreadsheets/d/1SR7cVCxkZdKA0GvSVbKcWn17KEv71bKXLXA_jt3fOIU/edit#gid=0
 
-Data is compiled by hand from `The Destiny Data Compendium` spreadsheet:
+Perk effects are compiled by hand from `The Destiny Data Compendium` spreadsheet:
 https://docs.google.com/spreadsheets/d/1WaxvbLx7UoSZaBqdFr1u32F2uWVLo-CJunJB4nlGUE4/edit#gid=1662574278
 
 
@@ -44,4 +44,5 @@ The value in this file is incremented when source data in this repository has be
 
 `weapon_reviews.json`:  Replaced by `item_reviews.json`.
 
-`weapon_range_by_type_v2.json`: Did not support perks with multiple tiers of effects and was retired.
+`weapon_range_by_type.json`: Did not support perks with multiple tiers of effects and was retired.
+
