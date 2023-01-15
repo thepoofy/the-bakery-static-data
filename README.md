@@ -21,12 +21,16 @@ Weapon perk effects are collected from `The Destiny Data Compendium` spreadsheet
 https://docs.google.com/spreadsheets/d/1WaxvbLx7UoSZaBqdFr1u32F2uWVLo-CJunJB4nlGUE4/edit#gid=1662574278
 
 
-### Mapping of Weapon Archetypes to Range 
+### Mapping of Weapon Range
 
-See `weapon_range_by_type.json`.
-Data is still compiled by hand.
+See `weapon_range_by_type_v2.json`
 
-Values are [defined and used as defined here.](https://docs.google.com/spreadsheets/d/1SR7cVCxkZdKA0GvSVbKcWn17KEv71bKXLXA_jt3fOIU/edit#gid=0)
+Weapon range calculator based upon base data and formulas from this spreadsheet:
+https://docs.google.com/spreadsheets/d/1SR7cVCxkZdKA0GvSVbKcWn17KEv71bKXLXA_jt3fOIU/edit#gid=0
+
+Perk effects are compiled by hand from `The Destiny Data Compendium` spreadsheet:
+https://docs.google.com/spreadsheets/d/1WaxvbLx7UoSZaBqdFr1u32F2uWVLo-CJunJB4nlGUE4/edit#gid=1662574278
+
 
 ### Bootstrap.json
 
@@ -36,6 +40,9 @@ The value in this file is incremented when source data in this repository has be
 
 ### Deprecated
 
-`sandbox_perk_info.json`, `perk_details.json` used to provide descriptions of perks.  This is being replaced by [Clarity](https://d2clarity.com).
+`sandbox_perk_info.json`, `perk_details.json`: Used to provide descriptions of perks.  Weapon perk info is now being provided by [Clarity](https://d2clarity.com).
 
 `weapon_reviews.json`:  Replaced by `item_reviews.json`.
+
+`weapon_range_by_type.json`: Did not support perks with multiple tiers of effects and was retired.
+
