@@ -985,13 +985,13 @@
         "ksaCv3cqUUU"
       ]
     }, {
-      "itemHash": "3013315457",
+      "itemHash": "1937552980",
       "name": "Doom of Chelchis",
       "reviews": [
         "CG7PHVl-lEM"
       ]
     }, {
-      "itemHash": "126468112",
+      "itemHash": "3228096719",
       "name": "Defiance of Yasmin",
       "reviews": [
         "NZwwI2tCW4Q", "U4HfFzew26o"
@@ -1009,7 +1009,7 @@
         "GUbjM37_TOE", "7b8TFR1cGG8"
       ]
     }, {
-      "itemHash": "3156616985",
+      "itemHash": "431721920",
       "name": "Zaouli's Bane",
       "reviews": [
         "LKHP--DuGzM"
@@ -1027,7 +1027,7 @@
         "wR5kocYOnYo"
       ]
     }, {
-      "itemHash": "236545423",
+      "itemHash": "3969066556",
       "name": "Midha's Reckoning",
       "reviews": [
         "rEsn3-nHjA4"
@@ -1439,6 +1439,30 @@
       "name": "Jararaca-3SR",
       "reviews": [
         "Sicx1JMmb_U"
+      ]
+    }, {
+      "itemHash": "2272041093",
+      "name": "Fire and Forget",
+      "reviews": [
+        "CSF_N6ywdt4"
+      ]
+    }, {
+      "itemHash": "",
+      "name": "Witherhoard",
+      "reviews": [
+        "MISgfP37nDk", "agvuQHzZdFk"
+      ]
+    }, {
+      "itemHash": "3341893443",
+      "name": "Funnelweb",
+      "reviews": [
+        "VkeQo8cQ44c"
+      ]
+    }, {
+      "itemHash": "1019000888",
+      "name": "Perses-D",
+      "reviews": [
+        "2HUz5lGR83g"
       ]
     }
   ]
