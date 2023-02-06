@@ -64,8 +64,8 @@
     "7": {
       "range": {
         "name": "Pulse Rifles all",
-        "vpp": 0.0770,
-        "baseRange": 16.8000
+        "vpp": 0.0800,
+        "baseRange": 16.0000
       }
     },
     "9": {
