@@ -3,8 +3,8 @@
     "5": {
       "range": {
         "name": "AutoRifles all",
-        "vpp": 0.0963,
-        "baseRange": 11.8700
+        "vpp": 0.0954,
+        "baseRange": 12.0000
       }
     },
     "6": {
@@ -57,15 +57,15 @@
     "3954685534": {
       "range": {
         "name": "SMGs all",
-        "vpp": 0.0891,
-        "baseRange": 8.8300
+        "vpp": 0.0713,
+        "baseRange": 9.6600
       }
     },
     "7": {
       "range": {
         "name": "Pulse Rifles all",
-        "vpp": 0.0800,
-        "baseRange": 16.0000
+        "vpp": 0.0780,
+        "baseRange": 16.2000
       }
     },
     "9": {
