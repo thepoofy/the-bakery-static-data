@@ -1036,7 +1036,7 @@
       "itemHash": "4293613902",
       "name": "Quicksilver Storm",
       "reviews": [
-        "HigxPgnmaJk"
+        "HigxPgnmaJk", "eeABuiT2wuo"
       ]
     }, {
       "itemHash": "2531963421",
@@ -1420,13 +1420,13 @@
       "itemHash": "3183283212",
       "name": "Wendigo",
       "reviews": [
-        "URAvdChARyk"
+        "URAvdChARyk", "3ANwIvT5aFU"
       ]
     }, {
       "itemHash": "555148853",
       "name": "Wendigo (Adept)",
       "reviews": [
-        "URAvdChARyk"
+        "URAvdChARyk", "3ANwIvT5aFU"
       ]
     }, {
       "itemHash": "3141979347",
@@ -1481,6 +1481,96 @@
       "name": "Fortissimo-11",
       "reviews": [
         "F7Eeywg8J18"
+      ]
+    }, {
+      "itemHash": "484515708",
+      "name": "Rufus's Fury",
+      "reviews": [
+        "v_39Nl-5MJk", "krbUnaemjXw", "k-kXLonjGUc"
+      ]
+    }, {
+      "itemHash": "268260373",
+      "name": "Prodigal Return",
+      "reviews": [
+        "0eCwr4LUApE"
+      ]
+    }, {
+      "itemHash": "3635821806",
+      "name": "Phyllotactic Spiral",
+      "reviews": [
+        "A96maGB1158"
+      ]
+    }, {
+      "itemHash": "3371017761",
+      "name": "Conditional Finality",
+      "reviews": [
+        "Y8pY7EY0BlY", "G0R8zBgIRLI"
+      ]
+    }, {
+      "itemHash": "3118061005",
+      "name": "Vexcalibur",
+      "reviews": [
+        "ARTAFaVNU_w"
+      ]
+    }, {
+      "itemHash": "1289796511",
+      "name": "Iterative Loop",
+      "reviews": [
+        "yVdj9UP3Jfg"
+      ]
+    }, {
+      "itemHash": "3110377595",
+      "name": "Autumn Wind",
+      "reviews": [
+        "HPTqqAIzWDI", "eN3350LzNfU"
+      ]
+    }, {
+      "itemHash": "2034215657",
+      "name": "Round Robin",
+      "reviews": [
+        "WHXIY_dpIC4"
+      ]
+    }, {
+      "itemHash": "62937067",
+      "name": "Jorum's Claw",
+      "reviews": [
+        "Qthcfw1_0cU", "A00TaKVVkSc"
+      ]
+    }, {
+      "itemHash": "1028124540",
+      "name": "Hero's Burden",
+      "reviews": [
+        "ZX882RAWw5A", "GK8IGvVLOmU"
+      ]
+    }, {
+      "itemHash": "268260372",
+      "name": "Regnant",
+      "reviews": [
+        "NTAm_NXgf3Q"
+      ]
+    }, {
+      "itemHash": "1471212226",
+      "name": "Acasia's Dejection",
+      "reviews": [
+        "xQcXdiOB4Ns"
+      ]
+    }, {
+      "itemHash": "135029084",
+      "name": "Nessa's Oblation",
+      "reviews": [
+        "6qD2YzpHPug"
+      ]
+    }, {
+      "itemHash": "231031173",
+      "name": "Mykel's Reverance",
+      "reviews": [
+        "E_miZ-QPLec"
+      ]
+    }, {
+      "itemHash": "2187717691",
+      "name": "Circular Logic",
+      "reviews": [
+        "aL3VO3T1ptQ"
       ]
     }
   ]
