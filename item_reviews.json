@@ -1522,7 +1522,7 @@
       "itemHash": "3110377595",
       "name": "Autumn Wind",
       "reviews": [
-        "HPTqqAIzWDI"
+        "HPTqqAIzWDI", "eN3350LzNfU"
       ]
     }, {
       "itemHash": "2034215657",
@@ -1541,6 +1541,36 @@
       "name": "Hero's Burden",
       "reviews": [
         "ZX882RAWw5A", "GK8IGvVLOmU"
+      ]
+    }, {
+      "itemHash": "268260372",
+      "name": "Regnant",
+      "reviews": [
+        "NTAm_NXgf3Q"
+      ]
+    }, {
+      "itemHash": "1471212226",
+      "name": "Acasia's Dejection",
+      "reviews": [
+        "xQcXdiOB4Ns"
+      ]
+    }, {
+      "itemHash": "135029084",
+      "name": "Nessa's Oblation",
+      "reviews": [
+        "6qD2YzpHPug"
+      ]
+    }, {
+      "itemHash": "231031173",
+      "name": "Mykel's Reverance",
+      "reviews": [
+        "E_miZ-QPLec"
+      ]
+    }, {
+      "itemHash": "2187717691",
+      "name": "Circular Logic",
+      "reviews": [
+        "aL3VO3T1ptQ"
       ]
     }
   ]
