@@ -1,5 +1,18 @@
 {
-	"surgeModBuffs": [1.03, 1.044, 1.055],
+	"surgeModBuffs": [
+		{
+			"name": "Surge Mods x1",
+			"damageMultiplier": 1.03
+		},
+		{
+			"name": "Surge Mods x2",
+			"damageMultiplier": 1.044
+		},
+		{
+			"name": "Surge Mods x3",
+			"damageMultiplier": 1.055
+		}
+	],
 	"empoweringBuffs": [
 		{
 			"name": "Radiant",
