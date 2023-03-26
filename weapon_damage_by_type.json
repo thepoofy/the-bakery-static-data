@@ -1,4 +1,5 @@
 {
+	"surgeModBuffs": [1.03, 1.044, 1.055],
 	"empoweringBuffs": [
 		{
 			"name": "Radiant",
