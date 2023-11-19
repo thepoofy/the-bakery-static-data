@@ -433,19 +433,49 @@
 				"name": "LMG - High-Impact Frame",
 				"bodyDamage": 34.0,
 				"critDamage": 48.0,
-				"rpm": 360
+				"rpm": 360,
+				"perkModifiers": {
+					"3751912585": {
+						"name": "Cascade Point",
+						"rpmMultiplier": 1.3
+					},
+					"331667533": {
+						"name": "Cascade Point (Enhanced)",
+						"rpmMultiplier": 1.3
+					}
+				}
 			},
 			"1294026524" : {
 				"name": "LMG - Adaptive Frame",
 				"bodyDamage": 30.0,
 				"critDamage": 41.0,
-				"rpm": 450
+				"rpm": 450,
+				"perkModifiers": {
+					"3751912585": {
+						"name": "Cascade Point",
+						"rpmMultiplier": 1.3
+					},
+					"331667533": {
+						"name": "Cascade Point (Enhanced)",
+						"rpmMultiplier": 1.3
+					}
+				}
 			},
 			"878286503" : {
 				"name": "LMG - Rapid-Fire Frame",
 				"bodyDamage": 18.0,
 				"critDamage": 24.0,
-				"rpm": 900
+				"rpm": 900,
+				"perkModifiers": {
+					"3751912585": {
+						"name": "Cascade Point",
+						"rpmMultiplier": 1.3
+					},
+					"331667533": {
+						"name": "Cascade Point (Enhanced)",
+						"rpmMultiplier": 1.3
+					}
+				}
 			},
 			"2608508147" : {
 				"name": "LMG - Heir Apparent",
@@ -603,37 +633,97 @@
 				"name": "SMG - Aggressive Frame",
 				"bodyDamage": 15.0,
 				"critDamage": 21.6,
-				"rpm": 720
+				"rpm": 720,
+				"perkModifiers": {
+					"3751912585": {
+						"name": "Cascade Point",
+						"rpmMultiplier": 1.3
+					},
+					"331667533": {
+						"name": "Cascade Point (Enhanced)",
+						"rpmMultiplier": 1.3
+					}
+				}
 			},
 			"1525239159": {
 				"name": "SMG - Aggressive Frame (Crafted Default)",
 				"bodyDamage": 15.0,
 				"critDamage": 21.6,
-				"rpm": 720
+				"rpm": 720,
+				"perkModifiers": {
+					"3751912585": {
+						"name": "Cascade Point",
+						"rpmMultiplier": 1.3
+					},
+					"331667533": {
+						"name": "Cascade Point (Enhanced)",
+						"rpmMultiplier": 1.3
+					}
+				}
 			},
 			"1458010786" : {
 				"name": "SMG - Lightweight Frame",
 				"bodyDamage": 10.9,
 				"critDamage": 17.9,
-				"rpm": 900
+				"rpm": 900,
+				"perkModifiers": {
+					"3751912585": {
+						"name": "Cascade Point",
+						"rpmMultiplier": 1.3
+					},
+					"331667533": {
+						"name": "Cascade Point (Enhanced)",
+						"rpmMultiplier": 1.3
+					}
+				}
 			},
 			"2213377102" : {
 				"name": "SMG - Lightweight Frame (MIDA Synergy)",
 				"bodyDamage": 10.9,
 				"critDamage": 17.9,
-				"rpm": 900
+				"rpm": 900,
+				"perkModifiers": {
+					"3751912585": {
+						"name": "Cascade Point",
+						"rpmMultiplier": 1.3
+					},
+					"331667533": {
+						"name": "Cascade Point (Enhanced)",
+						"rpmMultiplier": 1.3
+					}
+				}
 			},
 			"1636108362": {
 				"name": "SMG - Precision Frame",
 				"bodyDamage": 17.0,
 				"critDamage": 23.8,
-				"rpm": 600
+				"rpm": 600,
+				"perkModifiers": {
+					"3751912585": {
+						"name": "Cascade Point",
+						"rpmMultiplier": 1.3
+					},
+					"331667533": {
+						"name": "Cascade Point (Enhanced)",
+						"rpmMultiplier": 1.3
+					}
+				}
 			},
 			"1294026524": {
 				"name": "SMG - Adaptive Frame",
 				"bodyDamage": 11.3,
 				"critDamage": 16.2,
-				"rpm": 900
+				"rpm": 900,
+				"perkModifiers": {
+					"3751912585": {
+						"name": "Cascade Point",
+						"rpmMultiplier": 1.3
+					},
+					"331667533": {
+						"name": "Cascade Point (Enhanced)",
+						"rpmMultiplier": 1.3
+					}
+				}
 			},
 			"2540536653": {
 				"name": "SMG - Tarrabah",
@@ -988,8 +1078,44 @@
 		}
 	},
 	"damageModifierByPerkMap": {
+		"3324494224": {
+			"name": "Collective Action",
+			"damageMultiplier": 1.1
+		},
+		"2562668800": {
+			"name": "Collective Action (Enhanced)",
+			"damageMultiplier": 1.1
+		},
+		"31345821": {
+			"name": "Sword Logic",
+			"stackingDamageMultipliers": [1.15, 1.2, 1.35, 1.5]
+		},
+		"639190697": {
+			"name": "Sword Logic (Enhanced)",
+			"stackingDamageMultipliers": [1.15, 1.2, 1.35, 1.5]
+		},
+		"3751912585": {
+			"name": "Cascade Point",
+			"rpmMultiplier": 1.4
+		},
+		"331667533": {
+			"name": "Cascade Point (Enhanced)",
+			"rpmMultiplier": 1.4
+		},
+		"2319119708": {
+			"name": "High Ground",
+			"damageMultiplier": 1.1
+		},
+		"2140591236": {
+			"name": "High Ground",
+			"damageMultiplier": 1.1
+		},
 		"1015611457": {
 			"name": "Kill Clip",
+			"damageMultiplier": 1.25
+		},
+		"2923251173": {
+			"name": "Kill Clip (Enhanced)",
 			"damageMultiplier": 1.25
 		},
 		"438098033": {
@@ -1018,7 +1144,7 @@
 		},
 		"3708227201": {
 			"name": "Surrounded",
-			"damageMultiplier": 1.365
+			"damageMultiplier": 1.4
 		},
 		"781192741": {
 			"name": "Enhanced Surrounded",
